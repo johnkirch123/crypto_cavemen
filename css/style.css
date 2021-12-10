@@ -1,0 +1,104 @@
+:root {
+  --color-grey-dark-1: #333;
+  --color-grey-dark-2: #777;
+  --color-grey-dark-3: #999; }
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; }
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  overflow-x: hidden; }
+
+.container {
+  position: relative;
+  width: 192rem;
+  margin: 0 auto; }
+
+.footer {
+  height: 10rem;
+  background-color: #171717;
+  margin-top: -2rem; }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+  max-width: 190rem;
+  position: fixed; }
+
+.logo__box {
+  margin: 1.5rem 3rem;
+  z-index: 100; }
+
+.logo__image {
+  height: 6rem;
+  width: 14rem; }
+
+.nav {
+  display: flex; }
+  .nav__list {
+    list-style: none;
+    display: flex; }
+  .nav__link:link, .nav__link:visited {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 1.8rem;
+    display: block;
+    height: 100%;
+    padding: 3rem 4rem;
+    transition: all .2s; }
+  .nav__link:hover {
+    cursor: pointer;
+    transform: scale(1.1); }
+  .nav__link:active {
+    transform: translateY(3px); }
+
+.landing {
+  background: linear-gradient(to right bottom, rgba(3, 55, 200, 0.3), rgba(0, 0, 0, 0.7)), url(/img/crypto-cavemen-banner-lines.png) repeat center fixed;
+  height: 80vh;
+  background-size: cover;
+  background-attachment: fixed;
+  background-size: auto 100%;
+  z-index: -10; }
+
+.roadmap__image {
+  width: 100vw; }
+
+.sidebar {
+  position: relative; }
+  .sidebar__list {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    position: fixed;
+    color: white;
+    margin: 30rem 1.5rem; }
+  .sidebar__link--icon {
+    height: 5rem;
+    width: 5rem; }
+  .sidebar__link:link, .sidebar__link:visited {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 1.8rem;
+    display: block;
+    height: 100%;
+    margin: 1rem 2rem;
+    transition: all .2s; }
+  .sidebar__link:hover {
+    cursor: pointer;
+    transform: scale(1.1); }
+  .sidebar__link:active {
+    transform: translateY(3px); }

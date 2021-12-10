@@ -1,0 +1,14 @@
+.landing {
+    background: linear-gradient(
+                to right bottom,
+                rgba(3, 55, 200, 0.3),
+                rgba(0, 0, 0, 0.7)),
+                url(/img/crypto-cavemen-banner-lines.png) repeat center fixed;
+    
+    height: 80vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: auto 100%;
+    z-index: -10;
+    
+}
