@@ -4,7 +4,13 @@
     --color-grey-dark-3: #999;
 }
 
+$color-grey-dark-1: #333;
+$color-grey-dark-2: #777;
+$color-grey-dark-3: #999;
+$color-grey-light-1: #f9f7f6;
+$color-grey-light-2: #aaa;
 $color-white: #fff;
+$color-black: #000;
 
 *,
 *::before,
@@ -20,15 +26,20 @@ html {
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    // font-family: 'Open Sans', sans-serif;
+    font-family: chinese-rocks, sans-serif;
     font-weight: 400;
+    font-style: normal;
     line-height: 1.6;
     overflow-x: hidden;
 
 }
 
 .container {
+    display: grid;
+    grid-template-columns: 5vw 95vw;
+    grid-template-rows: 10rem 85vh 200rem 10rem;
     position: relative;
-    width: 192rem;
+    max-width: 192rem;
     margin: 0 auto;
 }

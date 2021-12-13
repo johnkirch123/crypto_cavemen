@@ -1,6 +1,9 @@
 .roadmap {
+    grid-column: 1 / -1;
+    grid-row: 3 / 4;
 
     &__image {
+        max-width: 192rem;
         width: 100vw;
     }
 }

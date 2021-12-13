@@ -4,6 +4,7 @@
     width: 100vw;
     max-width: 190rem;
     position: fixed;
+    z-index: 100;
 }
 
 .logo {
@@ -12,10 +13,12 @@
         margin: 1.5rem 3rem;
         z-index: 100;
     }
-
+    
     &__image {
-        height: 6rem;
-        width: 14rem;
+        height: 8rem;
+        width: 18rem;
+    }
+    &__link {
     }
 }
 
@@ -35,11 +38,15 @@
         text-decoration: none;
         text-transform: uppercase;
         color: $color-white;
-        font-size: 1.8rem;
+        font-size: 3rem;
         display: block;
         height: 100%;
         padding: 3rem 4rem;
         transition: all .2s;
+        background-image: linear-gradient(to right, #FDF11E, #DEB700);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
     }
 
     &__link:hover {

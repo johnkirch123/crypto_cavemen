@@ -1,5 +1,7 @@
 .footer {
-    height: 10rem;
+    max-width: 192rem;
+    grid-column: 1 / -1;
+    grid-row: 4 / -1;
     background-color: #171717;
     margin-top: -2rem;
 }
