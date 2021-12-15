@@ -1,9 +1,38 @@
 .roadmap {
     grid-column: 1 / -1;
     grid-row: 3 / 4;
+    position: relative;
+    display: grid;
+
+    &__down-arrow {
+        height: 20rem;
+        width: 20rem;
+        position: absolute;
+        justify-self: center;
+        text-align: center;
+        margin-top: -5rem;
+        color: rgb(207, 207, 10);
+        animation: pulsate 1s infinite;
+    }
 
     &__image {
         max-width: 192rem;
         width: 100vw;
     }
+}
+
+@keyframes pulsate {
+0% {
+    transform: scale(1);
+    box-shadow: none;
+}
+
+50% {
+    transform: scale(1.05);
+}
+
+100% {
+    transform: scale(1);
+    box-shadow: none;
+}
 }

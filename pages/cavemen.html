@@ -6,20 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="node_modules/@fortawesome/fontawesome-free/css/all.css" rel="stylesheet">
     <link rel="stylesheet" href="https://use.typekit.net/lsl7oen.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
     <title>Crypto Cavemen</title>
 </head>
 <body>
     <div class="container">
         <header class="header">
             <div class="logo__box">
-                <a href="#" class="logo__link"><img src="img/logo.png" alt="logo" class="logo__image"></a>
+                <a href="../index.html" class="logo__link"><img src="../img/logo.png" alt="logo" class="logo__image"></a>
             </div>
             <nav class="nav">
                 <ul class="nav__list">
                     <li class="nav__item"><a href="/pages/rarity.html" class="nav__link">Rarity</a></li>
                     <li class="nav__item"><a href="/pages/cavemen.html" class="nav__link">Cavemen</a></li>
-                    <li class="nav__item"><a href="#" class="nav__link">About</a></li>
+                    <li class="nav__item"><a href="/pages/about.html" class="nav__link">About</a></li>
                 </ul>
                 <a href="#" class="nav__link">Wallet</a>
             </nav>
@@ -33,22 +33,17 @@
                 <li class="sidebar__item"><a href="https://github.com/johnkirch123" target="_blank" class="sidebar__link"><img src="/img/github.png" alt="Github Link" class="sidebar__link--icon"></a></a></li>
             </ul>
         </div>
-        <div class="landing">
-            <div class="landing__info">
-                <h1 class="landing__header">CRYPTO CAVEMEN</h1>
-                <h3 class="landing__text">A unique collection of 10,000 procedurally generated Crypto Cavemen for the Elrond Network. This is only the beginning.</h3>
-                <div class="cta__btn">
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfzmMUhKYo6RZcyF9fFXcVPpOZVV1rcQsLw-Ema9aGgjBQztg/viewform?usp=sf_link" target="_blank" class="cta__link">Purchase now for 0.2 EGLD at special pre-sale price!</a>
-                </div>
-            </div>
+
+        <div class="cavemen">
+            <div class="cavemen__header">Revealed Cavemen listed in order from most to least rare:</div>
+            <div class="cavemen__body"></div>
         </div>
-        <section class="roadmap">
-            <i class="fa-solid fa-angle-down fa-10x roadmap__down-arrow"></i>
-            <img src="/img/road-map.png" alt="Crypto Cavemen road map" class="roadmap__image">
-        </section>
+        
         <footer class="footer">
             Footer Area
         </footer>
     </div>
+    <script src="../data/presale_minted.json"></script>
+    <script src="../js/cavemen.js"></script>
 </body>
 </html>

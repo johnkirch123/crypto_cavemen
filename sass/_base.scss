@@ -38,7 +38,7 @@ body {
 .container {
     display: grid;
     grid-template-columns: 5vw 95vw;
-    grid-template-rows: 10rem 85vh 200rem 10rem;
+    grid-template-rows: 10rem 85vh min-content 10rem;
     position: relative;
     max-width: 192rem;
     margin: 0 auto;
