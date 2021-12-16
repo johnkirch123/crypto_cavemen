@@ -1,4 +1,4 @@
-const presale_minted = "../data/presale_minted.json";
+const presale_minted = "../data/minted.json";
 
 const mainElement = document.querySelector(".cavemen__body");
 
@@ -31,15 +31,12 @@ fetch(presale_minted).then(response => response.json()).then(data => {
         anchor.href = `https://caveman-images.s3.us-west-1.amazonaws.com/${data[i].caveman}.jpg`;
         anchor.target = "_blank";
         
-        div.setAttribute("style", `height: ${image.height}px`);
-        side1.classList.add("card__side", "card__side--front");
-        side1.setAttribute("style", `height: ${image.height}px`);
-        side2.classList.add("card__side", "card__side--back");
-        side2.setAttribute("style", `height: ${image.height}px`);
-
+        
         side1.appendChild(image);
         side1.appendChild(frontOfCard(data[i]));
         side2.appendChild(backOfCard(data[i]));
+        side1.classList.add("card__side", "card__side--front");
+        side2.classList.add("card__side", "card__side--back");
         div.appendChild(side1);
         div.appendChild(side2);
         
@@ -54,7 +51,10 @@ const frontOfCard = element => {
     let div = document.createElement('div');
     div.classList.add('card__number');
    
-    div.innerHTML += `<h3 class="card__header">Caveman #</h3><p class="card__details">${JSON.stringify(element.caveman)}</p>`;
+    div.innerHTML += `<h3 class="card__header">Caveman #</h3>
+                        <p class="card__number--num">${JSON.stringify(element.caveman)}</p>
+                        <span class="card__number--rank">${JSON.stringify(element.attributes[1])}</span>
+                    `;
 
     return div;
 }

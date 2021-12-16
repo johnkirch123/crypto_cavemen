@@ -3,6 +3,33 @@
     width: 100%;
     max-width: 192rem;
     grid-column: 1 / -1;
-    grid-row: 5 / -1;
+    grid-row: 4 / -1;
     background-color: #171717;
+
+    &__box {
+        width: 100%;
+        max-width: 192rem;
+    }
+
+    &__cta-btn {
+        text-align: center;
+        animation: pulsate 2s infinite;
+    }
+    
+    &__cta-link:link,
+    &__cta-link:visited {
+        display: inline-block;
+        border: none;
+        background: linear-gradient(to right bottom, #FDF11E, #ac8d04);
+        padding: 1.5rem 3rem;
+        font-family: chinese-rocks, sans-serif;
+        color: $color-grey-dark-1;
+        text-decoration: none;
+        font-size: 1.9rem;
+        cursor: pointer;
+    }
+    
+    &__cta-link:hover {
+        cursor: pointer;
+    }
 }

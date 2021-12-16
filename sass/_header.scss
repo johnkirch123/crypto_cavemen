@@ -59,4 +59,8 @@
     &__link:active {
         transform: translateY(3px);
     }
+
+    &__presale {
+        animation: pulsate 2s infinite;
+    }
 }

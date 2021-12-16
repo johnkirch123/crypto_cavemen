@@ -1,0 +1,19 @@
+.wallet {
+    grid-column: 1 / -1;
+    grid-row: 1 / -1;
+    background-image: url("/img/Crypro\ Caveman\ BG\ V1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+
+    &__header {
+        margin-top: 20rem;
+        font-size: 10rem;
+        grid-column: 1 / -1;
+        text-align: center;
+        background: linear-gradient(to right bottom, #FDF11E, #ac8d04);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+    }
+}
