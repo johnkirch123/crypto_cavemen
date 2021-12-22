@@ -2,7 +2,7 @@
     perspective: 150rem;
     position: relative;
     min-width: 24rem;
-    height: 50rem;
+    min-height: 50rem;
 
     &__side {
         transition: all .8s;
@@ -12,6 +12,7 @@
         width: 100%;
         backface-visibility: hidden;
         height: 50rem;
+        overflow: hidden;
 
         &--front {
             background-color: #debd04;
@@ -40,6 +41,7 @@
     &__number {
         margin: 5rem 0;
         text-align: center;
+        min-height: 80rem;
 
         h3 {
             font-size: 5rem;
@@ -78,5 +80,27 @@
         font-size: 1.3rem;
         line-height: 1.6rem;
         text-align: center;
+    }
+
+    &__img {
+        width: 100%;
+        border: 3px solid black;
+    }
+
+    &__link {
+        @media (max-width: 750px) {
+            grid-column: 2 / 3;
+            height: min-content;
+        }
+    }
+
+    &__link:link,
+    &__link:visited {
+        text-decoration: none;
+        color: black;
+    }
+
+    &__link:hover {
+        cursor: pointer;
     }
 }

@@ -7,7 +7,7 @@
     grid-template-rows: 10rem min-content;
     grid-auto-rows: 10rem min-content;
     width: 100%;
-    max-width: 192rem;
+    max-width: $max-width;
 
     &__background {
         background-color: #171717;
@@ -30,6 +30,14 @@
         margin: 0 auto;
         grid-column: 1 / -1;
         border-radius: 100rem;
+        margin: 3rem auto;
+    }
+
+    &__cavemen {
+        height: 20rem;
+        width: 20rem;
+        margin: 0 auto;
+        grid-column: 1 / -1;
         margin: 3rem auto;
     }
 

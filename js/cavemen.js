@@ -25,9 +25,9 @@ fetch(presale_minted).then(response => response.json()).then(data => {
         image.src = `https://caveman-images.s3.us-west-1.amazonaws.com/${data[i].caveman}.jpg`;
         image.alt = "Caveman Image";
 
-        image.classList.add("cavemen__img");
+        image.classList.add("card__img");
         div.classList.add("cavemen__item", "card");
-        anchor.classList.add("cavemen__link");
+        anchor.classList.add("card__link");
         anchor.href = `https://caveman-images.s3.us-west-1.amazonaws.com/${data[i].caveman}.jpg`;
         anchor.target = "_blank";
         

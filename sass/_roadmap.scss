@@ -3,6 +3,7 @@
     grid-row: 3 / 4;
     position: relative;
     display: grid;
+    max-width: $max-width;
 
     &__down-arrow {
         height: 20rem;
@@ -16,7 +17,7 @@
     }
 
     &__image {
-        max-width: 192rem;
+        max-width: $max-width;
         width: 100vw;
     }
 }

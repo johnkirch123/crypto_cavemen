@@ -1,17 +1,18 @@
 .rarity {
     grid-column: 1 / -1;
-    grid-row: 1 / span 3;
+    grid-row: 1 / -1;
 
     display: grid;
-    grid-template-columns: 15vw  1fr 5vw;
-    grid-template-rows: 10rem repeat(140, 5rem);
+    grid-template-columns: 10rem  1fr 5vw;
+    grid-template-rows: 10rem min-content;
     grid-auto-rows: 10rem min-content;
-    max-width: 192rem;
+    max-width: $max-width;
+    background-color: #171717;
 
     &__background {
-        background-color: #171717;
-        grid-column: 1 / -1;
+        grid-column: 2 / 3;
         grid-row: 1 / -1;
+        background-color: #171717;
     }
 
     &__body {
@@ -20,7 +21,12 @@
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-auto-rows: min-content;
-        margin-top: 10rem;
+        margin: 10rem auto;
+
+        @media(max-width: 900px) {
+            grid-template-columns: 100%;
+            margin: 0 auto;
+        }
     }
 
     &__item {
@@ -33,6 +39,7 @@
         color: transparent;
         font-size: 1.8rem;
         margin-bottom: 1rem;
+        padding-right: 1rem;
     }
 
     &__header {
@@ -49,11 +56,5 @@
         margin-bottom: 3rem;
         text-align: center;
         margin-left: -20rem;
-    }
-
-    &__buffer {
-        grid-row: 4 / 5;
-        grid-column: 1 / -1;
-        background-color: #171717;
     }
 }

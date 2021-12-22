@@ -1,14 +1,17 @@
 .footer {
     color: white;
     width: 100%;
-    max-width: 192rem;
+    max-width: $max-width;
     grid-column: 1 / -1;
     grid-row: 4 / -1;
     background-color: #171717;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+
 
     &__box {
         width: 100%;
-        max-width: 192rem;
+        max-width: $max-width;
     }
 
     &__cta-btn {

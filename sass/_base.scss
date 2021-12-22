@@ -2,6 +2,10 @@
     --color-grey-dark-1: #333;
     --color-grey-dark-2: #777;
     --color-grey-dark-3: #999;
+
+    --max-width-lg: 192rem;
+    --max-width-md: 120rem;
+    --max-width-sm: 60rem;
 }
 
 $color-grey-dark-1: #333;
@@ -11,6 +15,8 @@ $color-grey-light-1: #f9f7f6;
 $color-grey-light-2: #aaa;
 $color-white: #fff;
 $color-black: #000;
+
+$max-width: var(--max-width-lg);
 
 *,
 *::before,
@@ -23,6 +29,10 @@ $color-black: #000;
 html {
     box-sizing: border-box;
     font-size: 62.5%; // 1rem = 10px, 10px/16px = 62.5%
+
+    @media (max-width: 900px) {
+        font-size: 50%;
+    }
 }
 
 body {
@@ -32,14 +42,20 @@ body {
     font-style: normal;
     line-height: 1.6;
     overflow-x: hidden;
+    background-color: #252525;
 
 }
 
 .container {
+    max-width: $max-width;
     display: grid;
-    grid-template-columns: 5vw 95vw;
+    grid-template-columns: 10% 80% 10%;
     grid-template-rows: 10rem 85vh min-content 10rem;
-    position: relative;
-    max-width: 192rem;
     margin: 0 auto;
+    position: relative;
+
+    @media (max-width: 600px) {
+        grid-template-columns: 100vw;
+        max-width: var(--max-width-sm);
+    }
 }
