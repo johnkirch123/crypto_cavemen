@@ -271,10 +271,24 @@ body {
   width: 100%; }
 
 .nav {
-  display: flex; }
+  display: flex;
+  margin-left: auto; }
+  @media (max-width: 1200px) {
+    .nav {
+      display: none; } }
   .nav__list {
     list-style: none;
     display: flex; }
+    .nav__list--collapsed {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      list-style: none;
+      text-align: center;
+      width: 100%; }
+  .nav__item--collapsed {
+    margin: 1rem; }
   .nav__link:link, .nav__link:visited {
     text-decoration: none;
     text-transform: uppercase;
@@ -288,13 +302,100 @@ body {
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent; }
-  .nav__link:hover {
+  .nav__link--collapsed:link, .nav__link--collapsed:visited {
+    display: inline-block;
+    font-size: 4rem;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    color: #171717;
+    background-image: linear-gradient(120deg, transparent 0%, transparent 50%, white 50%);
+    background-size: 240%;
+    transition: all .4s; }
+  .nav__link:hover, .nav__link:active {
     cursor: pointer;
-    font-size: 6rem; }
-  .nav__link:active {
+    font-size: 6rem;
+    transform: translateY(3px); }
+  .nav__link--collapsed:hover, .nav__link--collapsed:active {
+    background-position: 100%;
+    cursor: pointer;
+    font-size: 6rem;
     transform: translateY(3px); }
   .nav__presale {
     animation: pulsate 2s infinite; }
+  .nav__collapsed {
+    display: none;
+    margin-left: auto;
+    margin-top: 3rem; }
+    @media (max-width: 1200px) {
+      .nav__collapsed {
+        display: inline-block; } }
+  .nav__nav {
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 1500;
+    opacity: 0;
+    width: 0;
+    transition: all 0.8s cubic-bezier(0.86, 0, 0.07, 1); }
+  .nav__checkbox {
+    display: none; }
+  .nav__checkbox:checked ~ .nav__background {
+    transform: scale(80); }
+  .nav__checkbox:checked ~ .nav__nav {
+    width: 100%;
+    opacity: 1; }
+  .nav__button {
+    background-color: #171717;
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+    position: fixed;
+    top: 2.75rem;
+    right: 11.75rem;
+    z-index: 2000;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.1);
+    text-align: center;
+    cursor: pointer; }
+  .nav__background {
+    height: 6.5rem;
+    width: 6.5rem;
+    border-radius: 50%;
+    position: fixed;
+    top: 3rem;
+    right: 12rem;
+    background-image: radial-gradient(#FDF11E, #DEB700);
+    z-index: 1000;
+    transition: transform 0.8s cubic-bezier(0.86, 0, 0.07, 1); }
+  .nav__icon {
+    position: relative;
+    margin-top: 3.5rem; }
+    .nav__icon, .nav__icon::before, .nav__icon::after {
+      width: 3rem;
+      height: 3px;
+      background-color: #FDF11E;
+      display: inline-block; }
+    .nav__icon::before, .nav__icon::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      transition: all .2s; }
+    .nav__icon::before {
+      top: -1rem; }
+    .nav__icon::after {
+      top: 1rem; }
+  .nav__button:hover .nav__icon::before {
+    top: -1.2rem; }
+  .nav__button:hover .nav__icon::after {
+    top: 1.2rem; }
+  .nav__checkbox:checked + .nav__button .nav__icon {
+    background-color: transparent; }
+  .nav__checkbox:checked + .nav__button .nav__icon::before {
+    top: 0;
+    transform: rotate(135deg); }
+  .nav__checkbox:checked + .nav__button .nav__icon::after {
+    top: 0;
+    transform: rotate(45deg); }
 
 .landing {
   background: linear-gradient(to right bottom, rgba(3, 55, 200, 0.4), rgba(0, 0, 0, 0.75)), url(/img/crypto-cavemen-banner-lines.png) repeat center fixed;
@@ -311,6 +412,13 @@ body {
     left: 60%;
     max-width: 35%;
     min-width: 20rem; }
+    @media (max-width: 1200px) {
+      .landing__info {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        max-width: 100%; } }
   .landing__header {
     background: linear-gradient(to right bottom, #FDF11E, #ac8d04);
     -webkit-background-clip: text;
@@ -492,7 +600,7 @@ h3 {
         height: 6rem;
         width: 6rem; } }
   .wallet__link:link, .wallet__link:visited {
-    display: block;
+    display: inline-block;
     height: 100%;
     padding: 2rem 2rem;
     transition: all .2s;
