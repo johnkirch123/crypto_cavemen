@@ -22,6 +22,7 @@ html {
 
 body {
   font-family: chinese-rocks, sans-serif;
+  min-width: 100vw;
   font-weight: 400;
   font-style: normal;
   line-height: 1.6;
@@ -30,6 +31,7 @@ body {
 
 .container {
   max-width: var(--max-width-lg);
+  width: 100vw;
   display: grid;
   grid-template-columns: 10% 80% 10%;
   grid-template-rows: 10rem 85vh min-content 10rem;
@@ -37,8 +39,7 @@ body {
   position: relative; }
   @media (max-width: 600px) {
     .container {
-      grid-template-columns: 100vw;
-      max-width: var(--max-width-sm); } }
+      grid-template-columns: 100vw; } }
 
 .about {
   grid-column: 1 / -1;
@@ -595,14 +596,11 @@ h3 {
   .wallet__image {
     height: 10rem;
     width: 10rem; }
-    @media (max-width: 750px) {
-      .wallet__image {
-        height: 6rem;
-        width: 6rem; } }
   .wallet__link:link, .wallet__link:visited {
     display: inline-block;
     height: 100%;
     padding: 2rem 2rem;
+    margin-right: 1rem;
     transition: all .2s;
     background-image: linear-gradient(to right, #FDF11E, #DEB700);
     -webkit-background-clip: text;

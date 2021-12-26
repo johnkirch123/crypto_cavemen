@@ -22,10 +22,10 @@
         height: 10rem;
         width: 10rem;
 
-        @media (max-width: 750px) {
-            height: 6rem;
-            width: 6rem;
-        }
+        // @media (max-width: 750px) {
+        //     height: 6rem;
+        //     width: 6rem;
+        // }
     }
 
     &__link:link,
@@ -33,6 +33,7 @@
         display: inline-block;
         height: 100%;
         padding: 2rem 2rem;
+        margin-right: 1rem;
         transition: all .2s;
         background-image: linear-gradient(to right, #FDF11E, #DEB700);
         -webkit-background-clip: text;

@@ -36,8 +36,8 @@ html {
 }
 
 body {
-    // font-family: 'Open Sans', sans-serif;
     font-family: chinese-rocks, sans-serif;
+    min-width: 100vw;
     font-weight: 400;
     font-style: normal;
     line-height: 1.6;
@@ -48,6 +48,7 @@ body {
 
 .container {
     max-width: $max-width;
+    width: 100vw;
     display: grid;
     grid-template-columns: 10% 80% 10%;
     grid-template-rows: 10rem 85vh min-content 10rem;
@@ -56,6 +57,5 @@ body {
 
     @media (max-width: 600px) {
         grid-template-columns: 100vw;
-        max-width: var(--max-width-sm);
     }
 }
