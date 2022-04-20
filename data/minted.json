@@ -1,9 +1,7 @@
-[
-  {
+[{
     "name": "#8938",
     "caveman": 8938,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -39,8 +37,7 @@
   {
     "name": "#5862",
     "caveman": 5862,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "epic"
       },
       {
@@ -76,8 +73,7 @@
   {
     "name": "#7971",
     "caveman": 7971,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -113,8 +109,7 @@
   {
     "name": "#5288",
     "caveman": 5288,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -150,8 +145,7 @@
   {
     "name": "#7256",
     "caveman": 7256,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "legendary"
       },
       {
@@ -187,8 +181,7 @@
   {
     "name": "#3533",
     "caveman": 3533,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -224,8 +217,7 @@
   {
     "name": "#9874",
     "caveman": 9874,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -261,8 +253,7 @@
   {
     "name": "#3732",
     "caveman": 3732,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -298,8 +289,7 @@
   {
     "name": "#3776",
     "caveman": 3776,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -335,8 +325,7 @@
   {
     "name": "#5468",
     "caveman": 5468,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -372,8 +361,7 @@
   {
     "name": "#2706",
     "caveman": 2706,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -409,8 +397,7 @@
   {
     "name": "#1336",
     "caveman": 1336,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "epic"
       },
       {
@@ -446,8 +433,7 @@
   {
     "name": "#9948",
     "caveman": 9948,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -483,8 +469,7 @@
   {
     "name": "#9842",
     "caveman": 9842,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -520,8 +505,7 @@
   {
     "name": "#4538",
     "caveman": 4538,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -557,8 +541,7 @@
   {
     "name": "#4971",
     "caveman": 4971,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -594,8 +577,7 @@
   {
     "name": "#5972",
     "caveman": 5972,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -631,8 +613,7 @@
   {
     "name": "#7350",
     "caveman": 7350,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -668,8 +649,7 @@
   {
     "name": "#5921",
     "caveman": 5921,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -705,8 +685,7 @@
   {
     "name": "#9055",
     "caveman": 9055,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -742,8 +721,7 @@
   {
     "name": "#2312",
     "caveman": 2312,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -779,8 +757,7 @@
   {
     "name": "#9425",
     "caveman": 9425,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -816,8 +793,7 @@
   {
     "name": "#840",
     "caveman": 840,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -853,8 +829,7 @@
   {
     "name": "#640",
     "caveman": 640,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -890,8 +865,7 @@
   {
     "name": "#6064",
     "caveman": 6064,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -927,8 +901,7 @@
   {
     "name": "#556",
     "caveman": 556,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -964,8 +937,7 @@
   {
     "name": "#5769",
     "caveman": 5769,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -1001,8 +973,7 @@
   {
     "name": "#9350",
     "caveman": 9350,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -1038,8 +1009,7 @@
   {
     "name": "#6211",
     "caveman": 6211,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1075,8 +1045,7 @@
   {
     "name": "#2162",
     "caveman": 2162,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1112,8 +1081,7 @@
   {
     "name": "#7863",
     "caveman": 7863,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1149,8 +1117,7 @@
   {
     "name": "#6748",
     "caveman": 6748,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -1186,8 +1153,7 @@
   {
     "name": "#9861",
     "caveman": 9861,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1223,8 +1189,7 @@
   {
     "name": "#1078",
     "caveman": 1078,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1260,8 +1225,7 @@
   {
     "name": "#652",
     "caveman": 652,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1297,8 +1261,7 @@
   {
     "name": "#4148",
     "caveman": 4148,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1334,8 +1297,7 @@
   {
     "name": "#8325",
     "caveman": 8325,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1371,8 +1333,7 @@
   {
     "name": "#7649",
     "caveman": 7649,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1408,8 +1369,7 @@
   {
     "name": "#3040",
     "caveman": 3040,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1445,8 +1405,7 @@
   {
     "name": "#1709",
     "caveman": 1709,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -1482,8 +1441,7 @@
   {
     "name": "#5898",
     "caveman": 5898,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1519,8 +1477,7 @@
   {
     "name": "#7601",
     "caveman": 7601,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1556,8 +1513,7 @@
   {
     "name": "#9113",
     "caveman": 9113,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1593,8 +1549,7 @@
   {
     "name": "#1520",
     "caveman": 1520,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1630,8 +1585,7 @@
   {
     "name": "#1667",
     "caveman": 1667,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1667,8 +1621,7 @@
   {
     "name": "#6686",
     "caveman": 6686,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -1704,8 +1657,7 @@
   {
     "name": "#6216",
     "caveman": 6216,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1741,8 +1693,7 @@
   {
     "name": "#2052",
     "caveman": 2052,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1778,8 +1729,7 @@
   {
     "name": "#9348",
     "caveman": 9348,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1815,8 +1765,7 @@
   {
     "name": "#7718",
     "caveman": 7718,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1852,8 +1801,7 @@
   {
     "name": "#576",
     "caveman": 576,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -1889,8 +1837,7 @@
   {
     "name": "#8111",
     "caveman": 8111,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1926,8 +1873,7 @@
   {
     "name": "#1610",
     "caveman": 1610,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -1963,8 +1909,7 @@
   {
     "name": "#5300",
     "caveman": 5300,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2000,8 +1945,7 @@
   {
     "name": "#6774",
     "caveman": 6774,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2037,8 +1981,7 @@
   {
     "name": "#9818",
     "caveman": 9818,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -2074,8 +2017,7 @@
   {
     "name": "#9923",
     "caveman": 9923,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -2111,8 +2053,7 @@
   {
     "name": "#3804",
     "caveman": 3804,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2148,8 +2089,7 @@
   {
     "name": "#8345",
     "caveman": 8345,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -2185,8 +2125,7 @@
   {
     "name": "#5605",
     "caveman": 5605,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -2222,8 +2161,7 @@
   {
     "name": "#6242",
     "caveman": 6242,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2259,8 +2197,7 @@
   {
     "name": "#3053",
     "caveman": 3053,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -2296,8 +2233,7 @@
   {
     "name": "#3743",
     "caveman": 3743,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -2333,8 +2269,7 @@
   {
     "name": "#1748",
     "caveman": 1748,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2370,8 +2305,7 @@
   {
     "name": "#5838",
     "caveman": 5838,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2407,8 +2341,7 @@
   {
     "name": "#7459",
     "caveman": 7459,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2444,8 +2377,7 @@
   {
     "name": "#9760",
     "caveman": 9760,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "legendary"
       },
       {
@@ -2481,8 +2413,7 @@
   {
     "name": "#445",
     "caveman": 445,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2518,8 +2449,7 @@
   {
     "name": "#6118",
     "caveman": 6118,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2555,8 +2485,7 @@
   {
     "name": "#3788",
     "caveman": 3788,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2592,8 +2521,7 @@
   {
     "name": "#1010",
     "caveman": 1010,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2629,8 +2557,7 @@
   {
     "name": "#130",
     "caveman": 130,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2666,8 +2593,7 @@
   {
     "name": "#3608",
     "caveman": 3608,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2703,8 +2629,7 @@
   {
     "name": "#3268",
     "caveman": 3268,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2740,8 +2665,7 @@
   {
     "name": "#9840",
     "caveman": 9840,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2777,8 +2701,7 @@
   {
     "name": "#3560",
     "caveman": 3560,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2814,8 +2737,7 @@
   {
     "name": "#198",
     "caveman": 198,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2851,8 +2773,7 @@
   {
     "name": "#4702",
     "caveman": 4702,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -2888,8 +2809,7 @@
   {
     "name": "#3827",
     "caveman": 3827,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2925,8 +2845,7 @@
   {
     "name": "#3514",
     "caveman": 3514,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -2962,8 +2881,7 @@
   {
     "name": "#9439",
     "caveman": 9439,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -2999,8 +2917,7 @@
   {
     "name": "#8275",
     "caveman": 8275,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -3036,8 +2953,7 @@
   {
     "name": "#3403",
     "caveman": 3403,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -3073,8 +2989,7 @@
   {
     "name": "#9996",
     "caveman": 9996,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "epic"
       },
       {
@@ -3110,8 +3025,7 @@
   {
     "name": "#7114",
     "caveman": 7114,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -3147,8 +3061,7 @@
   {
     "name": "#6481",
     "caveman": 6481,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "epic"
       },
       {
@@ -3184,8 +3097,7 @@
   {
     "name": "#9645",
     "caveman": 9645,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -3221,8 +3133,7 @@
   {
     "name": "#6535",
     "caveman": 6535,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -3258,8 +3169,7 @@
   {
     "name": "#1105",
     "caveman": 1105,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -3295,8 +3205,7 @@
   {
     "name": "#5673",
     "caveman": 5673,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -3332,8 +3241,7 @@
   {
     "name": "#7622",
     "caveman": 7622,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -3369,8 +3277,7 @@
   {
     "name": "#9610",
     "caveman": 9610,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -3406,8 +3313,7 @@
   {
     "name": "#3292",
     "caveman": 3292,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -3443,8 +3349,7 @@
   {
     "name": "#9674",
     "caveman": 9674,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -3480,8 +3385,7 @@
   {
     "name": "#7157",
     "caveman": 7157,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -3517,8 +3421,7 @@
   {
     "name": "#5101",
     "caveman": 5101,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -3554,8 +3457,7 @@
   {
     "name": "#4321",
     "caveman": 4321,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -3591,8 +3493,7 @@
   {
     "name": "#5088",
     "caveman": 5088,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "epic"
       },
       {
@@ -3628,8 +3529,7 @@
   {
     "name": "#3210",
     "caveman": 3210,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -3665,8 +3565,7 @@
   {
     "name": "#9962",
     "caveman": 9962,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -3702,8 +3601,7 @@
   {
     "name": "#8945",
     "caveman": 8945,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -3739,8 +3637,7 @@
   {
     "name": "#560",
     "caveman": 560,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -3776,8 +3673,7 @@
   {
     "name": "#5405",
     "caveman": 5405,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -3813,8 +3709,7 @@
   {
     "name": "#3377",
     "caveman": 3377,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "epic"
       },
       {
@@ -3850,8 +3745,7 @@
   {
     "name": "#436",
     "caveman": 436,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -3887,8 +3781,7 @@
   {
     "name": "#1406",
     "caveman": 1406,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -3924,8 +3817,7 @@
   {
     "name": "#9809",
     "caveman": 9809,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -3961,8 +3853,7 @@
   {
     "name": "#2147",
     "caveman": 2147,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -3998,8 +3889,7 @@
   {
     "name": "#280",
     "caveman": 280,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -4035,8 +3925,7 @@
   {
     "name": "#3133",
     "caveman": 3133,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4072,8 +3961,7 @@
   {
     "name": "#113",
     "caveman": 113,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -4109,8 +3997,7 @@
   {
     "name": "#4033",
     "caveman": 4033,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4146,8 +4033,7 @@
   {
     "name": "#3536",
     "caveman": 3536,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4183,8 +4069,7 @@
   {
     "name": "#6555",
     "caveman": 6555,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -4220,8 +4105,7 @@
   {
     "name": "#730",
     "caveman": 730,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4257,8 +4141,7 @@
   {
     "name": "#8820",
     "caveman": 8820,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4294,8 +4177,7 @@
   {
     "name": "#6280",
     "caveman": 6280,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4331,8 +4213,7 @@
   {
     "name": "#5594",
     "caveman": 5594,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4368,8 +4249,7 @@
   {
     "name": "#9415",
     "caveman": 9415,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4405,8 +4285,7 @@
   {
     "name": "#3897",
     "caveman": 3897,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4442,8 +4321,7 @@
   {
     "name": "#5771",
     "caveman": 5771,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4479,8 +4357,7 @@
   {
     "name": "#9747",
     "caveman": 9747,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4516,8 +4393,7 @@
   {
     "name": "#287",
     "caveman": 287,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4553,8 +4429,7 @@
   {
     "name": "#755",
     "caveman": 755,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4590,8 +4465,7 @@
   {
     "name": "#8737",
     "caveman": 8737,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -4627,8 +4501,7 @@
   {
     "name": "#3031",
     "caveman": 3031,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "epic"
       },
       {
@@ -4664,8 +4537,7 @@
   {
     "name": "#5335",
     "caveman": 5335,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4701,8 +4573,7 @@
   {
     "name": "#938",
     "caveman": 938,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4738,8 +4609,7 @@
   {
     "name": "#575",
     "caveman": 575,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4775,8 +4645,7 @@
   {
     "name": "#3736",
     "caveman": 3736,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4812,8 +4681,7 @@
   {
     "name": "#4142",
     "caveman": 4142,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4849,8 +4717,7 @@
   {
     "name": "#3163",
     "caveman": 3163,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4886,8 +4753,7 @@
   {
     "name": "#7663",
     "caveman": 7663,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4923,8 +4789,7 @@
   {
     "name": "#6526",
     "caveman": 6526,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4960,8 +4825,7 @@
   {
     "name": "#6173",
     "caveman": 6173,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -4997,8 +4861,7 @@
   {
     "name": "#857",
     "caveman": 857,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -5034,8 +4897,7 @@
   {
     "name": "#6343",
     "caveman": 6343,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -5071,8 +4933,7 @@
   {
     "name": "#9285",
     "caveman": 9285,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -5108,8 +4969,7 @@
   {
     "name": "#5403",
     "caveman": 5403,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -5145,8 +5005,7 @@
   {
     "name": "#9808",
     "caveman": 9808,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "epic"
       },
       {
@@ -5182,8 +5041,7 @@
   {
     "name": "#9986",
     "caveman": 9986,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -5219,8 +5077,7 @@
   {
     "name": "#3861",
     "caveman": 3861,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -5256,8 +5113,7 @@
   {
     "name": "#2540",
     "caveman": 2540,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -5293,8 +5149,7 @@
   {
     "name": "#7873",
     "caveman": 7873,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -5330,8 +5185,7 @@
   {
     "name": "#8700",
     "caveman": 8700,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "epic"
       },
       {
@@ -5367,8 +5221,7 @@
   {
     "name": "#1473",
     "caveman": 1473,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -5404,8 +5257,7 @@
   {
     "name": "#9743",
     "caveman": 9743,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -5441,8 +5293,7 @@
   {
     "name": "#892",
     "caveman": 892,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "epic"
       },
       {
@@ -5478,8 +5329,7 @@
   {
     "name": "#6859",
     "caveman": 6859,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -5515,8 +5365,7 @@
   {
     "name": "#3850",
     "caveman": 3850,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -5552,8 +5401,7 @@
   {
     "name": "#6336",
     "caveman": 6336,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -5589,8 +5437,7 @@
   {
     "name": "#8399",
     "caveman": 8399,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -5626,8 +5473,7 @@
   {
     "name": "#7974",
     "caveman": 7974,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -5663,8 +5509,7 @@
   {
     "name": "#1516",
     "caveman": 1516,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -5700,8 +5545,7 @@
   {
     "name": "#1189",
     "caveman": 1189,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -5737,8 +5581,7 @@
   {
     "name": "#6324",
     "caveman": 6324,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -5774,8 +5617,7 @@
   {
     "name": "#2778",
     "caveman": 2778,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -5811,8 +5653,7 @@
   {
     "name": "#2819",
     "caveman": 2819,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -5848,8 +5689,7 @@
   {
     "name": "#1233",
     "caveman": 1233,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -5885,8 +5725,7 @@
   {
     "name": "#5390",
     "caveman": 5390,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -5922,8 +5761,7 @@
   {
     "name": "#4424",
     "caveman": 4424,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -5959,8 +5797,7 @@
   {
     "name": "#7004",
     "caveman": 7004,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -5996,8 +5833,7 @@
   {
     "name": "#7422",
     "caveman": 7422,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6033,8 +5869,7 @@
   {
     "name": "#5625",
     "caveman": 5625,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -6070,8 +5905,7 @@
   {
     "name": "#2309",
     "caveman": 2309,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6107,8 +5941,7 @@
   {
     "name": "#721",
     "caveman": 721,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6144,8 +5977,7 @@
   {
     "name": "#2495",
     "caveman": 2495,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6181,8 +6013,7 @@
   {
     "name": "#7127",
     "caveman": 7127,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -6218,8 +6049,7 @@
   {
     "name": "#1565",
     "caveman": 1565,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6255,8 +6085,7 @@
   {
     "name": "#8488",
     "caveman": 8488,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6292,8 +6121,7 @@
   {
     "name": "#4478",
     "caveman": 4478,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "epic"
       },
       {
@@ -6329,8 +6157,7 @@
   {
     "name": "#3478",
     "caveman": 3478,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -6366,8 +6193,7 @@
   {
     "name": "#7788",
     "caveman": 7788,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -6403,8 +6229,7 @@
   {
     "name": "#992",
     "caveman": 992,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6440,8 +6265,7 @@
   {
     "name": "#1622",
     "caveman": 1622,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6477,8 +6301,7 @@
   {
     "name": "#1463",
     "caveman": 1463,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -6514,8 +6337,7 @@
   {
     "name": "#5743",
     "caveman": 5743,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6551,8 +6373,7 @@
   {
     "name": "#4216",
     "caveman": 4216,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6588,8 +6409,7 @@
   {
     "name": "#4579",
     "caveman": 4579,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6625,8 +6445,7 @@
   {
     "name": "#859",
     "caveman": 859,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6662,8 +6481,7 @@
   {
     "name": "#6282",
     "caveman": 6282,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6699,8 +6517,7 @@
   {
     "name": "#378",
     "caveman": 378,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -6736,8 +6553,7 @@
   {
     "name": "#630",
     "caveman": 630,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6773,8 +6589,7 @@
   {
     "name": "#4905",
     "caveman": 4905,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6810,8 +6625,7 @@
   {
     "name": "#7091",
     "caveman": 7091,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6847,8 +6661,7 @@
   {
     "name": "#6538",
     "caveman": 6538,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6884,8 +6697,7 @@
   {
     "name": "#2715",
     "caveman": 2715,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6921,8 +6733,7 @@
   {
     "name": "#8182",
     "caveman": 8182,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6958,8 +6769,7 @@
   {
     "name": "#9098",
     "caveman": 9098,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -6995,8 +6805,7 @@
   {
     "name": "#4195",
     "caveman": 4195,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7032,8 +6841,7 @@
   {
     "name": "#2938",
     "caveman": 2938,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7069,8 +6877,7 @@
   {
     "name": "#8500",
     "caveman": 8500,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7106,8 +6913,7 @@
   {
     "name": "#8836",
     "caveman": 8836,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7143,8 +6949,7 @@
   {
     "name": "#905",
     "caveman": 905,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "epic"
       },
       {
@@ -7180,8 +6985,7 @@
   {
     "name": "#7624",
     "caveman": 7624,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7217,8 +7021,7 @@
   {
     "name": "#9618",
     "caveman": 9618,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7254,8 +7057,7 @@
   {
     "name": "#6752",
     "caveman": 6752,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7291,8 +7093,7 @@
   {
     "name": "#4639",
     "caveman": 4639,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7328,8 +7129,7 @@
   {
     "name": "#7487",
     "caveman": 7487,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7365,8 +7165,7 @@
   {
     "name": "#9628",
     "caveman": 9628,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7402,8 +7201,7 @@
   {
     "name": "#3482",
     "caveman": 3482,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7439,8 +7237,7 @@
   {
     "name": "#4920",
     "caveman": 4920,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7476,8 +7273,7 @@
   {
     "name": "#8065",
     "caveman": 8065,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7513,8 +7309,7 @@
   {
     "name": "#9510",
     "caveman": 9510,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7550,8 +7345,7 @@
   {
     "name": "#4863",
     "caveman": 4863,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "epic"
       },
       {
@@ -7587,8 +7381,7 @@
   {
     "name": "#3802",
     "caveman": 3802,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7624,8 +7417,7 @@
   {
     "name": "#7302",
     "caveman": 7302,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7661,8 +7453,7 @@
   {
     "name": "#4515",
     "caveman": 4515,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7698,8 +7489,7 @@
   {
     "name": "#7991",
     "caveman": 7991,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7735,8 +7525,7 @@
   {
     "name": "#4313",
     "caveman": 4313,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7772,8 +7561,7 @@
   {
     "name": "#3201",
     "caveman": 3201,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7809,8 +7597,7 @@
   {
     "name": "#4440",
     "caveman": 4440,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7846,8 +7633,7 @@
   {
     "name": "#4531",
     "caveman": 4531,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -7883,8 +7669,7 @@
   {
     "name": "#8140",
     "caveman": 8140,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "legendary"
       },
       {
@@ -7920,8 +7705,7 @@
   {
     "name": "#9507",
     "caveman": 9507,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7957,8 +7741,7 @@
   {
     "name": "#1449",
     "caveman": 1449,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -7994,8 +7777,7 @@
   {
     "name": "#7501",
     "caveman": 7501,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8031,8 +7813,7 @@
   {
     "name": "#633",
     "caveman": 633,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8068,8 +7849,7 @@
   {
     "name": "#4336",
     "caveman": 4336,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "epic"
       },
       {
@@ -8105,8 +7885,7 @@
   {
     "name": "#5075",
     "caveman": 5075,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8142,8 +7921,7 @@
   {
     "name": "#9581",
     "caveman": 9581,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8179,8 +7957,7 @@
   {
     "name": "#1813",
     "caveman": 1813,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8216,8 +7993,7 @@
   {
     "name": "#4666",
     "caveman": 4666,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8253,8 +8029,7 @@
   {
     "name": "#454",
     "caveman": 454,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8290,8 +8065,7 @@
   {
     "name": "#4796",
     "caveman": 4796,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -8327,8 +8101,7 @@
   {
     "name": "#4176",
     "caveman": 4176,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "epic"
       },
       {
@@ -8364,8 +8137,7 @@
   {
     "name": "#592",
     "caveman": 592,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8401,8 +8173,7 @@
   {
     "name": "#1087",
     "caveman": 1087,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8438,8 +8209,7 @@
   {
     "name": "#2024",
     "caveman": 2024,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8475,8 +8245,7 @@
   {
     "name": "#9246",
     "caveman": 9246,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -8512,8 +8281,7 @@
   {
     "name": "#5313",
     "caveman": 5313,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "epic"
       },
       {
@@ -8549,8 +8317,7 @@
   {
     "name": "#4995",
     "caveman": 4995,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8586,8 +8353,7 @@
   {
     "name": "#7331",
     "caveman": 7331,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8623,8 +8389,7 @@
   {
     "name": "#9474",
     "caveman": 9474,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -8660,8 +8425,7 @@
   {
     "name": "#6777",
     "caveman": 6777,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -8697,8 +8461,7 @@
   {
     "name": "#1581",
     "caveman": 1581,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8734,8 +8497,7 @@
   {
     "name": "#3606",
     "caveman": 3606,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8771,8 +8533,7 @@
   {
     "name": "#4157",
     "caveman": 4157,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8808,8 +8569,7 @@
   {
     "name": "#6472",
     "caveman": 6472,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -8845,8 +8605,7 @@
   {
     "name": "#331",
     "caveman": 331,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8882,8 +8641,7 @@
   {
     "name": "#9178",
     "caveman": 9178,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8919,8 +8677,7 @@
   {
     "name": "#4854",
     "caveman": 4854,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8956,8 +8713,7 @@
   {
     "name": "#6154",
     "caveman": 6154,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -8993,8 +8749,7 @@
   {
     "name": "#3102",
     "caveman": 3102,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -9030,8 +8785,7 @@
   {
     "name": "#9440",
     "caveman": 9440,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -9067,8 +8821,7 @@
   {
     "name": "#8521",
     "caveman": 8521,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -9104,8 +8857,7 @@
   {
     "name": "#9017",
     "caveman": 9017,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -9141,8 +8893,7 @@
   {
     "name": "#9208",
     "caveman": 9208,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -9178,8 +8929,7 @@
   {
     "name": "#5959",
     "caveman": 5959,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -9215,8 +8965,7 @@
   {
     "name": "#7597",
     "caveman": 7597,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -9252,8 +9001,7 @@
   {
     "name": "#3909",
     "caveman": 3909,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -9289,8 +9037,7 @@
   {
     "name": "#5908",
     "caveman": 5908,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -9326,8 +9073,7 @@
   {
     "name": "#3139",
     "caveman": 3139,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -9363,8 +9109,7 @@
   {
     "name": "#180",
     "caveman": 180,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -9400,8 +9145,7 @@
   {
     "name": "#8497",
     "caveman": 8497,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "rare"
       },
       {
@@ -9437,8 +9181,7 @@
   {
     "name": "#5612",
     "caveman": 5612,
-    "attributes": [
-      {
+    "attributes": [{
         "rarity-type": "uncommon"
       },
       {
@@ -9461,6 +9204,5658 @@
       },
       {
         "arms": "arms-down-bone-stick-left-bracers (2.26% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#3231",
+    "caveman": 3231,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 7324
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "sandals-tan (8.55% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "dreads-green-beard (0.56% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers (3.87% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7149",
+    "caveman": 7149,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 3796
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "base-stripe-tattoo-purple (1.28% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "red-beard-balding (4.41% have this trait)"
+      },
+      {
+        "arms": "arms-down-basic-spear-meat-left (2.37% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "green-wizard-hat (2.97% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7825",
+    "caveman": 7825,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9363
+      },
+      {
+        "background": "savannah (18.15% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "mammoth (9.23% have this trait)"
+      },
+      {
+        "hair": "dreads-grey (0.70% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-haunch-stick-left- (1.82% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#3562",
+    "caveman": 3562,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8015
+      },
+      {
+        "background": "beach (7.14% have this trait)"
+      },
+      {
+        "body": "base-spiral-tattoo-blue (3.39% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "mammoth (9.23% have this trait)"
+      },
+      {
+        "hair": "grey-beard-balding (4.45% have this trait)"
+      },
+      {
+        "arms": "arms-down-club-pendant-left (1.00% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#4398",
+    "caveman": 4398,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 3250
+      },
+      {
+        "background": "lagoon (8.46% have this trait)"
+      },
+      {
+        "body": "squint-base-circles-tattoo-teal (1.29% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "red-beard-balding (4.41% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-meat-left (2.55% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "antler-headress-elrond (0.36% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1392",
+    "caveman": 1392,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 7432
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers (3.87% have this trait)"
+      },
+      {
+        "environment": "red-lizard (2.04% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#5446",
+    "caveman": 5446,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 5858
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "annoyed-base (8.54% have this trait)"
+      },
+      {
+        "feet": "boots (4.15% have this trait)"
+      },
+      {
+        "clothing": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "hair": "top-knot-mustache-grey (1.64% have this trait)"
+      },
+      {
+        "arms": "arms-down-wheel-bracers (1.04% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#4621",
+    "caveman": 4621,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 2246
+      },
+      {
+        "background": "beach (7.14% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "boots-black (2.25% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "red-beard-braided-only (1.09% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-stick-left-bracers (2.26% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "green-wizard-hat (2.97% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6698",
+    "caveman": 6698,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8173
+      },
+      {
+        "background": "savannah (18.15% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "snake-neon (0.44% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down-axe (1.37% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7472",
+    "caveman": 7472,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 6974
+      },
+      {
+        "background": "beach (7.14% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "mammoth (9.23% have this trait)"
+      },
+      {
+        "hair": "grey-beard-full (4.89% have this trait)"
+      },
+      {
+        "arms": "arms-down-club (3.45% have this trait)"
+      },
+      {
+        "environment": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#4694",
+    "caveman": 4694,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 2218
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "boots-blue (2.79% have this trait)"
+      },
+      {
+        "clothing": "black-leather-potions-harness-blue (1.71% have this trait)"
+      },
+      {
+        "hair": "top-knot-mustache-green (0.33% have this trait)"
+      },
+      {
+        "arms": "arms-down-basic-spear (4.48% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "bone-nose-ring (2.94% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7868",
+    "caveman": 7868,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 4433
+      },
+      {
+        "background": "beach (7.14% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "black-leather-potions-harness-orange (1.25% have this trait)"
+      },
+      {
+        "hair": "purple-beard-mohawk (0.71% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers-basic-spear-stic-left-bracers (1.45% have this trait)"
+      },
+      {
+        "environment": "green-lizard (6.12% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7030",
+    "caveman": 7030,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9965
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather (10.40% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down (4.92% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7006",
+    "caveman": 7006,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 3549
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "sandals-tan (8.55% have this trait)"
+      },
+      {
+        "clothing": "mammoth (9.23% have this trait)"
+      },
+      {
+        "hair": "dreads-grey (0.70% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-bracers (3.24% have this trait)"
+      },
+      {
+        "environment": "fire (9.34% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#139",
+    "caveman": 139,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9404
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "hair": "green-mustache-mohawk (0.54% have this trait)"
+      },
+      {
+        "arms": "arms-down-club-meat-left (1.22% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7773",
+    "caveman": 7773,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 6893
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "dreads-black-beard (0.74% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-meat-left (2.55% have this trait)"
+      },
+      {
+        "environment": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#4506",
+    "caveman": 4506,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 2853
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "squint-base-spiral-tattoo-blue (2.34% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "black-leather-potions-harness-red (1.04% have this trait)"
+      },
+      {
+        "hair": "green-white-mustache-mohawk (0.22% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-meat-left (2.36% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "red-wizard-hat (1.92% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#3179",
+    "caveman": 3179,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 659
+      },
+      {
+        "background": "lagoon (8.46% have this trait)"
+      },
+      {
+        "body": "squint-base-stripe-tattoo-purple (0.84% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "red-beard-mohawk (0.94% have this trait)"
+      },
+      {
+        "arms": "arms-down (4.92% have this trait)"
+      },
+      {
+        "environment": "fire (9.34% have this trait)"
+      },
+      {
+        "head": "white-wizard-hat (1.42% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#3766",
+    "caveman": 3766,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 2630
+      },
+      {
+        "background": "ice-lake (2.49% have this trait)"
+      },
+      {
+        "body": "base-stripe-tattoo-purple (1.28% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "white-elrond-toga-red-sash (4.46% have this trait)"
+      },
+      {
+        "hair": "blonde-beard-balding (4.43% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers-basic-spear-stic-left-bracers (1.45% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "earring (3.61% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6726",
+    "caveman": 6726,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 2676
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "sandals-dark-brown (6.43% have this trait)"
+      },
+      {
+        "clothing": "leather-potions-harness-blue (5.21% have this trait)"
+      },
+      {
+        "hair": "grey-beard-only (2.09% have this trait)"
+      },
+      {
+        "arms": "arms-crossed (1.06% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "grey-wizard-hat (3.49% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#8808",
+    "caveman": 8808,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 3646
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "foot-hair-green (1.67% have this trait)"
+      },
+      {
+        "clothing": "white-leather (2.08% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-stick-left (2.31% have this trait)"
+      },
+      {
+        "environment": "fire (9.34% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#2183",
+    "caveman": 2183,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 740
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "scar-base-spiral-tattoo-blue (1.94% have this trait)"
+      },
+      {
+        "feet": "foot-hair-red (1.95% have this trait)"
+      },
+      {
+        "clothing": "black-leather-potions-harness-orange (1.25% have this trait)"
+      },
+      {
+        "hair": "grey-mohawk-braided-beard (1.53% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers-basic-spear-meat-left-bracers (1.30% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "red-wizard-hat (1.92% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#2348",
+    "caveman": 2348,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 7494
+      },
+      {
+        "background": "savannah (18.15% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "foot-hair-brown (2.98% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "grey-beard-balding (4.45% have this trait)"
+      },
+      {
+        "arms": "arms-down-basic-spear-bracers (3.01% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#828",
+    "caveman": 828,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 6146
+      },
+      {
+        "background": "snowy-forest (5.25% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "white-elrond-toga-red-sash (4.46% have this trait)"
+      },
+      {
+        "hair": "dreads-brown (0.65% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers (3.87% have this trait)"
+      },
+      {
+        "environment": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1301",
+    "caveman": 1301,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9578
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "red-beard-balding (4.41% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-pendant-left (2.23% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#5866",
+    "caveman": 5866,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8817
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "black-leather (4.11% have this trait)"
+      },
+      {
+        "hair": "top-knot-braided-beard-white (0.21% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-pendant-left (3.04% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#2409",
+    "caveman": 2409,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 5603
+      },
+      {
+        "background": "beach (7.14% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "red-musctache-mohawk (1.35% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-stick-left-bracers (2.26% have this trait)"
+      },
+      {
+        "environment": "eggs-purple (2.08% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#9884",
+    "caveman": 9884,
+    "attributes": [{
+        "rarity-type": "epic"
+      },
+      {
+        "rarity-rank": 361
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "boots-dark-brown (4.94% have this trait)"
+      },
+      {
+        "clothing": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "hair": "top-knot-beard-grey (1.85% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-pendant-left (2.23% have this trait)"
+      },
+      {
+        "environment": "red-lizard (2.04% have this trait)"
+      },
+      {
+        "head": "green-wizard-hat (2.97% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#9277",
+    "caveman": 9277,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 1417
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "smiling-base (0.78% have this trait)"
+      },
+      {
+        "feet": "sandals-tan (8.55% have this trait)"
+      },
+      {
+        "clothing": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "hair": "top-knot-grey (2.37% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers-basic-spear-pendant-left-bracers (0.51% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "red-headband (2.28% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6128",
+    "caveman": 6128,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 1611
+      },
+      {
+        "background": "ice-lake (2.49% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "foot-hair-red (1.95% have this trait)"
+      },
+      {
+        "clothing": "sabertooth-black (1.49% have this trait)"
+      },
+      {
+        "hair": "white-balding (0.80% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers (3.87% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "bone-nose-ring (2.94% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1107",
+    "caveman": 1107,
+    "attributes": [{
+        "rarity-type": "epic"
+      },
+      {
+        "rarity-rank": 422
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "foot-hair-green (1.67% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "blonde-beard-balding (4.43% have this trait)"
+      },
+      {
+        "arms": "arms-down-club-meat-left-bracers (0.48% have this trait)"
+      },
+      {
+        "environment": "green-lizard (6.12% have this trait)"
+      },
+      {
+        "head": "bone-nose-ring (2.94% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#5003",
+    "caveman": 5003,
+    "attributes": [{
+        "rarity-type": "epic"
+      },
+      {
+        "rarity-rank": 578
+      },
+      {
+        "background": "savannah (18.15% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "foot-hair-brown (2.98% have this trait)"
+      },
+      {
+        "clothing": "mammoth (9.23% have this trait)"
+      },
+      {
+        "hair": "green-white-beard-balding (0.48% have this trait)"
+      },
+      {
+        "arms": "arms-down-club (3.45% have this trait)"
+      },
+      {
+        "environment": "fire (9.34% have this trait)"
+      },
+      {
+        "head": "green-wizard-hat (2.97% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1411",
+    "caveman": 1411,
+    "attributes": [{
+        "rarity-type": "epic"
+      },
+      {
+        "rarity-rank": 540
+      },
+      {
+        "background": "savannah (18.15% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "boots-blue (2.79% have this trait)"
+      },
+      {
+        "clothing": "leather (10.40% have this trait)"
+      },
+      {
+        "hair": "top-knot-braided-beard-white (0.21% have this trait)"
+      },
+      {
+        "arms": "arms-down-log (7.39% have this trait)"
+      },
+      {
+        "environment": "fire (9.34% have this trait)"
+      },
+      {
+        "head": "grey-wizard-hat (3.49% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#5184",
+    "caveman": 5184,
+    "attributes": [{
+        "rarity-type": "legendary"
+      },
+      {
+        "rarity-rank": 83
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "scar-base-stripe-tattoo-purple (0.86% have this trait)"
+      },
+      {
+        "feet": "sandals-tan (8.55% have this trait)"
+      },
+      {
+        "clothing": "leather (10.40% have this trait)"
+      },
+      {
+        "hair": "dreads-grey-braided-beard (1.52% have this trait)"
+      },
+      {
+        "arms": "arms-down-club-meat-left (1.22% have this trait)"
+      },
+      {
+        "environment": "red-lizard (2.04% have this trait)"
+      },
+      {
+        "head": "bone-nose-ring-and-earring (1.00% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#4587",
+    "caveman": 4587,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 7430
+      },
+      {
+        "background": "savannah (18.15% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "boots-blue (2.79% have this trait)"
+      },
+      {
+        "clothing": "white-elrond-toga-blue-sash (2.16% have this trait)"
+      },
+      {
+        "hair": "grey-beard-full (4.89% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-stick-left (2.31% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#2732",
+    "caveman": 2732,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 1134
+      },
+      {
+        "background": "snowy-forest (5.25% have this trait)"
+      },
+      {
+        "body": "annoyed-base (8.54% have this trait)"
+      },
+      {
+        "feet": "foot-hair-red (1.95% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "grey-beard-full (4.89% have this trait)"
+      },
+      {
+        "arms": "arms-down (4.92% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "green-wizard-hat (2.97% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#5858",
+    "caveman": 5858,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 7907
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "squint-base-stripe-tattoo-purple (0.84% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "white-elrond-toga-blue-sash (2.16% have this trait)"
+      },
+      {
+        "hair": "grey-beard-braided-only (1.17% have this trait)"
+      },
+      {
+        "arms": "arms-down-log (7.39% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#5385",
+    "caveman": 5385,
+    "attributes": [{
+        "rarity-type": "epic"
+      },
+      {
+        "rarity-rank": 344
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "sandals-tan (8.55% have this trait)"
+      },
+      {
+        "clothing": "black-elrond-toga-black-red-sash (0.90% have this trait)"
+      },
+      {
+        "hair": "grey-mohawk-braided-beard (1.53% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-pendant-left (3.04% have this trait)"
+      },
+      {
+        "environment": "red-lizard (2.04% have this trait)"
+      },
+      {
+        "head": "antler-headress (3.73% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#2811",
+    "caveman": 2811,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 5502
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "black-leather-potions-harness-orange (1.25% have this trait)"
+      },
+      {
+        "hair": "red-mohawk-only (1.62% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat (2.14% have this trait)"
+      },
+      {
+        "environment": "green-lizard (6.12% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#909",
+    "caveman": 909,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 7785
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "sandals-dark-brown (6.43% have this trait)"
+      },
+      {
+        "clothing": "leather (10.40% have this trait)"
+      },
+      {
+        "hair": "grey-beard-full (4.89% have this trait)"
+      },
+      {
+        "arms": "arms-down-club-meat-left (1.22% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#3000",
+    "caveman": 3000,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 5021
+      },
+      {
+        "background": "retro-red (0.45% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "black-leather-pouch-harness (2.24% have this trait)"
+      },
+      {
+        "hair": "red-beard-balding (4.41% have this trait)"
+      },
+      {
+        "arms": "arms-down-club-stick-left (1.32% have this trait)"
+      },
+      {
+        "environment": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7228",
+    "caveman": 7228,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 2245
+      },
+      {
+        "background": "savannah (18.15% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "boots-dark-brown (4.94% have this trait)"
+      },
+      {
+        "clothing": "white-leather (2.08% have this trait)"
+      },
+      {
+        "hair": "grey-beard-balding (4.45% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-bracers (3.24% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "antler-headress-white (0.64% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#3570",
+    "caveman": 3570,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 1047
+      },
+      {
+        "background": "day-plains (4.67% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "white-elrond-toga-red-sash (4.46% have this trait)"
+      },
+      {
+        "hair": "top-knot-mustache-white (0.09% have this trait)"
+      },
+      {
+        "arms": "arms-down-log (7.39% have this trait)"
+      },
+      {
+        "environment": "green-lizard (6.12% have this trait)"
+      },
+      {
+        "head": "red-wizard-hat (1.92% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#2539",
+    "caveman": 2539,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 6617
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "sandals-dark-brown (6.43% have this trait)"
+      },
+      {
+        "clothing": "white-elrond-toga-blue-sash (2.16% have this trait)"
+      },
+      {
+        "hair": "dreads-grey (0.70% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-pendant-left (3.04% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1778",
+    "caveman": 1778,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8957
+      },
+      {
+        "background": "ice-lake (2.49% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "dreads-brown-beard (0.90% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-meat-left (2.36% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#5134",
+    "caveman": 5134,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 2229
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "boots-black (2.25% have this trait)"
+      },
+      {
+        "clothing": "mammoth (9.23% have this trait)"
+      },
+      {
+        "hair": "grey-mohawk-braided-beard (1.53% have this trait)"
+      },
+      {
+        "arms": "arms-down-basic-spear-bracers (3.01% have this trait)"
+      },
+      {
+        "environment": "mosquito (1.15% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#367",
+    "caveman": 367,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 3283
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "scar-base-spiraling-circles-tattoo-red (0.77% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "mammoth (9.23% have this trait)"
+      },
+      {
+        "hair": "grey-beard-mohawk (1.59% have this trait)"
+      },
+      {
+        "arms": "arms-down-elrond-spear (0.93% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "red-headband (2.28% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#9102",
+    "caveman": 9102,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 6043
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "boots-green (2.36% have this trait)"
+      },
+      {
+        "clothing": "leopard-black (1.03% have this trait)"
+      },
+      {
+        "hair": "grey-beard-only (2.09% have this trait)"
+      },
+      {
+        "arms": "arms-down-stick-left- (2.94% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#2463",
+    "caveman": 2463,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9576
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather (10.40% have this trait)"
+      },
+      {
+        "hair": "grey-beard-only (2.09% have this trait)"
+      },
+      {
+        "arms": "arms-down-wheel-meat-left (0.35% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7521",
+    "caveman": 7521,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 7459
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "eyes-closed-content-base (0.16% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "sabertooth-black (1.49% have this trait)"
+      },
+      {
+        "hair": "green-white-beard-full (0.13% have this trait)"
+      },
+      {
+        "arms": "arms-down-basic-spear-meat-left (2.37% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6016",
+    "caveman": 6016,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8579
+      },
+      {
+        "background": "ice-lake (2.49% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "black-leather-pouch-harness (2.24% have this trait)"
+      },
+      {
+        "hair": "top-knot-beard-grey (1.85% have this trait)"
+      },
+      {
+        "arms": "arms-down (4.92% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1705",
+    "caveman": 1705,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9380
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "grey-beard-mohawk (1.59% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-left-bracers (1.60% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#9066",
+    "caveman": 9066,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 3538
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "snake-red (2.09% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down-pendant-left-bracers (1.92% have this trait)"
+      },
+      {
+        "environment": "eggs-pink (3.15% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#2169",
+    "caveman": 2169,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 5887
+      },
+      {
+        "background": "savannah (18.15% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "green-beard-mohawk (0.53% have this trait)"
+      },
+      {
+        "arms": "arms-down-log (7.39% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "red-wizard-hat (1.92% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6217",
+    "caveman": 6217,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9542
+      },
+      {
+        "background": "savannah (18.15% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "black-leather (4.11% have this trait)"
+      },
+      {
+        "hair": "pink-mohawk-only (0.12% have this trait)"
+      },
+      {
+        "arms": "arms-down-stick-left- (2.94% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#5434",
+    "caveman": 5434,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 2311
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "foot-hair-brown (2.98% have this trait)"
+      },
+      {
+        "clothing": "black-leather (4.11% have this trait)"
+      },
+      {
+        "hair": "grey-beard-full (4.89% have this trait)"
+      },
+      {
+        "arms": "arms-down-log (7.39% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "earring (3.61% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#274",
+    "caveman": 274,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9023
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "purple-mustache-mohawk (0.71% have this trait)"
+      },
+      {
+        "arms": "arms-down-stick-left-bracers (1.47% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6308",
+    "caveman": 6308,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8963
+      },
+      {
+        "background": "day-plains (4.67% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "mammoth-black (1.15% have this trait)"
+      },
+      {
+        "hair": "blonde-beard-balding (4.43% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone (4.39% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#8480",
+    "caveman": 8480,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 6814
+      },
+      {
+        "background": "beach (7.14% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "sandals-tan (8.55% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "grey-beard-braided-only (1.17% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-stick-left (2.75% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#655",
+    "caveman": 655,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 2200
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "squint-base-spiral-tattoo-blue (2.34% have this trait)"
+      },
+      {
+        "feet": "sandals-tan (8.55% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "grey-mohawk-braided-beard (1.53% have this trait)"
+      },
+      {
+        "arms": "arms-down-axe (1.37% have this trait)"
+      },
+      {
+        "environment": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6480",
+    "caveman": 6480,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 3140
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "sandals-tan (8.55% have this trait)"
+      },
+      {
+        "clothing": "mammoth (9.23% have this trait)"
+      },
+      {
+        "hair": "top-knot-brown (1.81% have this trait)"
+      },
+      {
+        "arms": "arms-down-basic-spear (4.48% have this trait)"
+      },
+      {
+        "environment": "fire (9.34% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6030",
+    "caveman": 6030,
+    "attributes": [{
+        "rarity-type": "epic"
+      },
+      {
+        "rarity-rank": 318
+      },
+      {
+        "background": "beach (7.14% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "boots-dark-brown (4.94% have this trait)"
+      },
+      {
+        "clothing": "leather (10.40% have this trait)"
+      },
+      {
+        "hair": "red-beard-balding (4.41% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-meat-left (2.55% have this trait)"
+      },
+      {
+        "environment": "green-lizard (6.12% have this trait)"
+      },
+      {
+        "head": "blue-headband (2.37% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#8053",
+    "caveman": 8053,
+    "attributes": [{
+        "rarity-type": "epic"
+      },
+      {
+        "rarity-rank": 274
+      },
+      {
+        "background": "lagoon (8.46% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "boots-blue (2.79% have this trait)"
+      },
+      {
+        "clothing": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "hair": "grey-beard-mohawk (1.59% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-stick-left (2.75% have this trait)"
+      },
+      {
+        "environment": "red-lizard (2.04% have this trait)"
+      },
+      {
+        "head": "white-wizard-hat (1.42% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#3334",
+    "caveman": 3334,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9951
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather (10.40% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-meat-left (2.55% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#2660",
+    "caveman": 2660,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 1499
+      },
+      {
+        "background": "day-plains (4.67% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "snake-green (1.23% have this trait)"
+      },
+      {
+        "clothing": "leather-potions-harness-blue (5.21% have this trait)"
+      },
+      {
+        "hair": "blonde-mohawk-only (1.87% have this trait)"
+      },
+      {
+        "arms": "arms-down-basic-spear (4.48% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "white-wizard-hat (1.42% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#8070",
+    "caveman": 8070,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 5150
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "white-balding (0.80% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-meat-left (2.36% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "antler-headress-green (1.08% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#5375",
+    "caveman": 5375,
+    "attributes": [{
+        "rarity-type": "legendary"
+      },
+      {
+        "rarity-rank": 27
+      },
+      {
+        "background": "snowy-forest (5.25% have this trait)"
+      },
+      {
+        "body": "annoyed-base (8.54% have this trait)"
+      },
+      {
+        "feet": "foot-hair-green (1.67% have this trait)"
+      },
+      {
+        "clothing": "black-elrond-toga-black-red-sash (0.90% have this trait)"
+      },
+      {
+        "hair": "blonde-beard-balding (4.43% have this trait)"
+      },
+      {
+        "arms": "arms-down (4.92% have this trait)"
+      },
+      {
+        "environment": "mosquito (1.15% have this trait)"
+      },
+      {
+        "head": "earring (3.61% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#9518",
+    "caveman": 9518,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 857
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "scar-base-spiraling-circles-tattoo-red (0.77% have this trait)"
+      },
+      {
+        "feet": "foot-hair-red (1.95% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "dreads-black-braided-beard (0.53% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers (3.87% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "blue-headband (2.37% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6132",
+    "caveman": 6132,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 2122
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "snake-green (1.23% have this trait)"
+      },
+      {
+        "clothing": "white-elrond-toga-blue-sash (2.16% have this trait)"
+      },
+      {
+        "hair": "blonde-mohawk-only (1.87% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-stick-left-bracers (2.26% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "antler-headress-black (1.48% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1630",
+    "caveman": 1630,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 1537
+      },
+      {
+        "background": "ice-lake (2.49% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "grey-beard-braided-only (1.17% have this trait)"
+      },
+      {
+        "arms": "arms-down-club-stick-left-bracers (0.86% have this trait)"
+      },
+      {
+        "environment": "fire (9.34% have this trait)"
+      },
+      {
+        "head": "grey-wizard-hat (3.49% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#8979",
+    "caveman": 8979,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 1612
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "closed-eyes-base (2.63% have this trait)"
+      },
+      {
+        "feet": "boots (4.15% have this trait)"
+      },
+      {
+        "clothing": "black-leather-pouch-harness (2.24% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down-log (7.39% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "red-wizard-hat (1.92% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#4921",
+    "caveman": 4921,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 3650
+      },
+      {
+        "background": "lagoon (8.46% have this trait)"
+      },
+      {
+        "body": "scar-base (5.16% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "red-beard-only (3.16% have this trait)"
+      },
+      {
+        "arms": "arms-crossed (1.06% have this trait)"
+      },
+      {
+        "environment": "black-wolf (3.12% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#3616",
+    "caveman": 3616,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 2036
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "boots-blue (2.79% have this trait)"
+      },
+      {
+        "clothing": "black-leather-potions-harness-purple (1.61% have this trait)"
+      },
+      {
+        "hair": "top-knot-beard-brown (1.34% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers-basic-spear-pendant-left-bracers (0.51% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "antler-headress-green (1.08% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1524",
+    "caveman": 1524,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 6226
+      },
+      {
+        "background": "snowy-forest (5.25% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down-club (3.45% have this trait)"
+      },
+      {
+        "environment": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#2828",
+    "caveman": 2828,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8884
+      },
+      {
+        "background": "beach (7.14% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "white-leather-potions-harness-blue (0.81% have this trait)"
+      },
+      {
+        "hair": "white-balding (0.80% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone (4.39% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#312",
+    "caveman": 312,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 3745
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "squint-base-stripe-tattoo-purple (0.84% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "black-wolf (3.12% have this trait)"
+      },
+      {
+        "hair": "blonde-beard-balding (4.43% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-stick-left-bracers (2.26% have this trait)"
+      },
+      {
+        "environment": "fire (9.34% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7837",
+    "caveman": 7837,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9309
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather (10.40% have this trait)"
+      },
+      {
+        "hair": "eye-brows-black (0.84% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-stick-left (2.75% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#5544",
+    "caveman": 5544,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 5421
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "scar-base-spiral-tattoo-blue (1.94% have this trait)"
+      },
+      {
+        "feet": "sandals-dark-brown (6.43% have this trait)"
+      },
+      {
+        "clothing": "mammoth (9.23% have this trait)"
+      },
+      {
+        "hair": "red-beard-only (3.16% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-pendant-left (3.04% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1570",
+    "caveman": 1570,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8180
+      },
+      {
+        "background": "savannah (18.15% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "boots (4.15% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers (3.87% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#8224",
+    "caveman": 8224,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 3054
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "boots-dark-brown (4.94% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "top-knot-mustache-grey (1.64% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-haunch-stick-left- (1.82% have this trait)"
+      },
+      {
+        "environment": "green-lizard (6.12% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#8589",
+    "caveman": 8589,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8837
+      },
+      {
+        "background": "snowy-forest (5.25% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather-potions-harness-blue (5.21% have this trait)"
+      },
+      {
+        "hair": "red-mohawk-braided-beard (1.30% have this trait)"
+      },
+      {
+        "arms": "arms-down-elrond-spear-bracers (0.08% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1629",
+    "caveman": 1629,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 3045
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "snake-red (2.09% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "grey-beard-balding (4.45% have this trait)"
+      },
+      {
+        "arms": "arms-down-log (7.39% have this trait)"
+      },
+      {
+        "environment": "green-lizard (6.12% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#927",
+    "caveman": 927,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8383
+      },
+      {
+        "background": "savannah (18.15% have this trait)"
+      },
+      {
+        "body": "scar-base-spiral-tattoo-blue (1.94% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "top-knot-mustache-grey (1.64% have this trait)"
+      },
+      {
+        "arms": "arms-down-pendant-left-bracers (1.92% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#2339",
+    "caveman": 2339,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8036
+      },
+      {
+        "background": "ice-lake (2.49% have this trait)"
+      },
+      {
+        "body": "annoyed-base (8.54% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "black-mohawk-braided-beard (0.90% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-pendant-left (3.04% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#8924",
+    "caveman": 8924,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9618
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "top-knot-mustache-grey (1.64% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers-basic-spear-stic-left-bracers (1.45% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#5840",
+    "caveman": 5840,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 4276
+      },
+      {
+        "background": "ice-lake (2.49% have this trait)"
+      },
+      {
+        "body": "scar-base-spiral-tattoo-blue (1.94% have this trait)"
+      },
+      {
+        "feet": "sandals-tan (8.55% have this trait)"
+      },
+      {
+        "clothing": "mammoth (9.23% have this trait)"
+      },
+      {
+        "hair": "dreads-black (0.38% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat (2.14% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7191",
+    "caveman": 7191,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 4796
+      },
+      {
+        "background": "lagoon (8.46% have this trait)"
+      },
+      {
+        "body": "squint-base-spiral-tattoo-blue (2.34% have this trait)"
+      },
+      {
+        "feet": "boots (4.15% have this trait)"
+      },
+      {
+        "clothing": "white-wolf (1.04% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down-basic-spear-stick-left (1.54% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1393",
+    "caveman": 1393,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8251
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "squint-base-spiral-tattoo-blue (2.34% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "red-beard-balding (4.41% have this trait)"
+      },
+      {
+        "arms": "arms-down-wheel (0.89% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6527",
+    "caveman": 6527,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 6028
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "annoyed-base (8.54% have this trait)"
+      },
+      {
+        "feet": "boots-blue (2.79% have this trait)"
+      },
+      {
+        "clothing": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "hair": "red-beard-only (3.16% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-pendant-left (3.04% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7354",
+    "caveman": 7354,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8230
+      },
+      {
+        "background": "beach (7.14% have this trait)"
+      },
+      {
+        "body": "annoyed-base (8.54% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "red-mohawk-only (1.62% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers-basic-spear-meat-left-bracers (1.30% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#4452",
+    "caveman": 4452,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 4257
+      },
+      {
+        "background": "savannah (18.15% have this trait)"
+      },
+      {
+        "body": "squint-base-circles-tattoo-teal (1.29% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "white-leather-pouch-harness (1.46% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-pendant-left (2.23% have this trait)"
+      },
+      {
+        "environment": "eggs-pink (3.15% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#4065",
+    "caveman": 4065,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 2766
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "boots-dark-brown (4.94% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "top-knot-blue (0.46% have this trait)"
+      },
+      {
+        "arms": "arms-down (4.92% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "blue-headband (2.37% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7999",
+    "caveman": 7999,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 1985
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "tar (1.54% have this trait)"
+      },
+      {
+        "clothing": "mammoth-black (1.15% have this trait)"
+      },
+      {
+        "hair": "dreads-grey-beard (1.16% have this trait)"
+      },
+      {
+        "arms": "arms-down (4.92% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "red-wizard-hat (1.92% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#5534",
+    "caveman": 5534,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9744
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather (10.40% have this trait)"
+      },
+      {
+        "hair": "grey-beard-only (2.09% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-stick-left (2.31% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1916",
+    "caveman": 1916,
+    "attributes": [{
+        "rarity-type": "epic"
+      },
+      {
+        "rarity-rank": 281
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "boots (4.15% have this trait)"
+      },
+      {
+        "clothing": "leather-potions-harness-blue (5.21% have this trait)"
+      },
+      {
+        "hair": "dreads-black-beard (0.74% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-pendant-left-bracers (1.24% have this trait)"
+      },
+      {
+        "environment": "eggs-purple (2.08% have this trait)"
+      },
+      {
+        "head": "grey-wizard-hat (3.49% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#4924",
+    "caveman": 4924,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 6016
+      },
+      {
+        "background": "ice-lake (2.49% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "boots-black (2.25% have this trait)"
+      },
+      {
+        "clothing": "leather (10.40% have this trait)"
+      },
+      {
+        "hair": "red-beard-only (3.16% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-left-bracers (1.60% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#636",
+    "caveman": 636,
+    "attributes": [{
+        "rarity-type": "epic"
+      },
+      {
+        "rarity-rank": 309
+      },
+      {
+        "background": "lagoon (8.46% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "foot-hair-grey (1.35% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "green-white-beard-balding (0.48% have this trait)"
+      },
+      {
+        "arms": "arms-down-basic-spear-meat-left (2.37% have this trait)"
+      },
+      {
+        "environment": "wolf-pup (3.29% have this trait)"
+      },
+      {
+        "head": "bone-nose-ring (2.94% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7611",
+    "caveman": 7611,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 6844
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "grey-beard-full (4.89% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-meat-left (2.36% have this trait)"
+      },
+      {
+        "environment": "green-lizard (6.12% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#9019",
+    "caveman": 9019,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 1949
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "eyes-closed-frown-base (0.97% have this trait)"
+      },
+      {
+        "feet": "sandals-dark-brown (6.43% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "white-mohawk-only (0.79% have this trait)"
+      },
+      {
+        "arms": "arms-down-club-meat-left (1.22% have this trait)"
+      },
+      {
+        "environment": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#2506",
+    "caveman": 2506,
+    "attributes": [{
+        "rarity-type": "epic"
+      },
+      {
+        "rarity-rank": 466
+      },
+      {
+        "background": "ice-lake (2.49% have this trait)"
+      },
+      {
+        "body": "squint-base-stripe-tattoo-purple (0.84% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "dreads-brown-mustache (0.68% have this trait)"
+      },
+      {
+        "arms": "arms-down-basic-spear-meat-left (2.37% have this trait)"
+      },
+      {
+        "environment": "green-lizard (6.12% have this trait)"
+      },
+      {
+        "head": "antler-headress (3.73% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#9365",
+    "caveman": 9365,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 7289
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "sandals-dark-brown (6.43% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "grey-beard-balding (4.45% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-left-bracers (1.60% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6704",
+    "caveman": 6704,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 4955
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "sabertooth-black (1.49% have this trait)"
+      },
+      {
+        "hair": "dreads-brown-beard (0.90% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-stick-left (2.31% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "earring (3.61% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#242",
+    "caveman": 242,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9577
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather (10.40% have this trait)"
+      },
+      {
+        "hair": "top-knot-braided-beard-black (0.25% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-stick-left-bracers (2.26% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#3079",
+    "caveman": 3079,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 1139
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "squint-base-spiral-tattoo-blue (2.34% have this trait)"
+      },
+      {
+        "feet": "boots (4.15% have this trait)"
+      },
+      {
+        "clothing": "mammoth (9.23% have this trait)"
+      },
+      {
+        "hair": "red-beard-balding (4.41% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-haunch-stick-left- (1.82% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "earring (3.61% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1190",
+    "caveman": 1190,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 4106
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "annoyed-base (8.54% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "black-elrond-toga-black-red-sash (0.90% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down-basic-spear-bracers (3.01% have this trait)"
+      },
+      {
+        "environment": "ufo (0.78% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1309",
+    "caveman": 1309,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 4966
+      },
+      {
+        "background": "day-plains (4.67% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather (10.40% have this trait)"
+      },
+      {
+        "hair": "red-musctache-mohawk (1.35% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers-basic-spear-meat-left-bracers (1.30% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "blue-headband (2.37% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#831",
+    "caveman": 831,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 7331
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "boots-blue (2.79% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "red-beard-balding (4.41% have this trait)"
+      },
+      {
+        "arms": "arms-down-log (7.39% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6540",
+    "caveman": 6540,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8819
+      },
+      {
+        "background": "rainbow-mountains (1.64% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "hair": "dreads-brown-braided-beard (0.98% have this trait)"
+      },
+      {
+        "arms": "arms-down-elrond-spear (0.93% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#841",
+    "caveman": 841,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 2781
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "foot-hair-black (1.51% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "top-knot-mustache-grey (1.64% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-meat-left (2.36% have this trait)"
+      },
+      {
+        "environment": "black-wolf (3.12% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#8941",
+    "caveman": 8941,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 5937
+      },
+      {
+        "background": "savannah (18.15% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "black-leather-pouch-harness (2.24% have this trait)"
+      },
+      {
+        "hair": "grey-beard-balding (4.45% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-pendant-left-bracers (1.24% have this trait)"
+      },
+      {
+        "environment": "mosquito (1.15% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1547",
+    "caveman": 1547,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 2850
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "eyes-closed-base-spiraling-circles-tattoo-red (0.18% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "black-leather-potions-harness-blue (1.71% have this trait)"
+      },
+      {
+        "hair": "red-beard-balding (4.41% have this trait)"
+      },
+      {
+        "arms": "arms-down-wheel (0.89% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "antler-headress-white (0.64% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#8760",
+    "caveman": 8760,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9512
+      },
+      {
+        "background": "savannah (18.15% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "dreads-brown-braided-beard (0.98% have this trait)"
+      },
+      {
+        "arms": "arms-down-club-bracers (2.60% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1381",
+    "caveman": 1381,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 3265
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "boots-blue (2.79% have this trait)"
+      },
+      {
+        "clothing": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "hair": "blonde-beard-balding (4.43% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-pendant-left (3.04% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "earring (3.61% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#9352",
+    "caveman": 9352,
+    "attributes": [{
+        "rarity-type": "epic"
+      },
+      {
+        "rarity-rank": 574
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "scar-base (5.16% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "white-elrond-toga-red-sash (4.46% have this trait)"
+      },
+      {
+        "hair": "red-beard-only (3.16% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-bracers (3.24% have this trait)"
+      },
+      {
+        "environment": "wolf-pup (3.29% have this trait)"
+      },
+      {
+        "head": "antler-headress-black (1.48% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1515",
+    "caveman": 1515,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 3998
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "eyes-closed-frown-base (0.97% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "black-wolf (3.12% have this trait)"
+      },
+      {
+        "hair": "red-beard-only (3.16% have this trait)"
+      },
+      {
+        "arms": "arms-down-basic-spear (4.48% have this trait)"
+      },
+      {
+        "environment": "fire (9.34% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#9410",
+    "caveman": 9410,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 5571
+      },
+      {
+        "background": "beach (7.14% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "orange-white-beard-only (0.37% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers-basic-spear-meat-left-bracers (1.30% have this trait)"
+      },
+      {
+        "environment": "wolf-pup (3.29% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#8179",
+    "caveman": 8179,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 7579
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "sandals-dark-brown (6.43% have this trait)"
+      },
+      {
+        "clothing": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "hair": "blue-mustache-mohawk (0.45% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-stick-left (2.75% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1873",
+    "caveman": 1873,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 4760
+      },
+      {
+        "background": "day-plains (4.67% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "blue-mohawk-only (0.57% have this trait)"
+      },
+      {
+        "arms": "arms-down-club-meat-left (1.22% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "red-headband (2.28% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6444",
+    "caveman": 6444,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9149
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leopard-black (1.03% have this trait)"
+      },
+      {
+        "hair": "eye-brows-black (0.84% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-bracers (3.24% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#9783",
+    "caveman": 9783,
+    "attributes": [{
+        "rarity-type": "epic"
+      },
+      {
+        "rarity-rank": 248
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "foot-hair-grey (1.35% have this trait)"
+      },
+      {
+        "clothing": "black-leather-potions-harness-purple (1.61% have this trait)"
+      },
+      {
+        "hair": "blonde-mohawk-only (1.87% have this trait)"
+      },
+      {
+        "arms": "arms-down-stick-left-bracers (1.47% have this trait)"
+      },
+      {
+        "environment": "green-lizard (6.12% have this trait)"
+      },
+      {
+        "head": "antler-headress-white (0.64% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#898",
+    "caveman": 898,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 4151
+      },
+      {
+        "background": "lagoon (8.46% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "white-leather-pouch-harness (1.46% have this trait)"
+      },
+      {
+        "hair": "grey-beard-braided-only (1.17% have this trait)"
+      },
+      {
+        "arms": "arms-down-pendant-left-bracers (1.92% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "antler-headress (3.73% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#9236",
+    "caveman": 9236,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8327
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "scar-base-spiral-tattoo-blue (1.94% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather-pouch-harness (8.71% have this trait)"
+      },
+      {
+        "hair": "grey-mohawk-only (2.07% have this trait)"
+      },
+      {
+        "arms": "arms-down-club (3.45% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1573",
+    "caveman": 1573,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 4829
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "annoyed-base (8.54% have this trait)"
+      },
+      {
+        "feet": "sandals-tan (8.55% have this trait)"
+      },
+      {
+        "clothing": "black-elrond-toga-black-red-sash (0.90% have this trait)"
+      },
+      {
+        "hair": "red-mohawk-braided-beard (1.30% have this trait)"
+      },
+      {
+        "arms": "arms-down-pendant-left-bracers (1.92% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#503",
+    "caveman": 503,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 6334
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "hair": "top-knot-brown (1.81% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-meat-left (2.55% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "antler-headress-black (1.48% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6582",
+    "caveman": 6582,
+    "attributes": [{
+        "rarity-type": "epic"
+      },
+      {
+        "rarity-rank": 464
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "sandals-tan (8.55% have this trait)"
+      },
+      {
+        "clothing": "mammoth (9.23% have this trait)"
+      },
+      {
+        "hair": "eye-brows-black (0.84% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers (3.87% have this trait)"
+      },
+      {
+        "environment": "red-lizard (2.04% have this trait)"
+      },
+      {
+        "head": "grey-wizard-hat (3.49% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1074",
+    "caveman": 1074,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9893
+      },
+      {
+        "background": "ice-lake (2.49% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down-stick-left- (2.94% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#5024",
+    "caveman": 5024,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 2376
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "foot-hair-brown (2.98% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "dreads-grey-mustache (1.05% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-haunch-bracers (1.88% have this trait)"
+      },
+      {
+        "environment": "eggs-purple (2.08% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1016",
+    "caveman": 1016,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 7808
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "boots (4.15% have this trait)"
+      },
+      {
+        "clothing": "sabertooth (15.58% have this trait)"
+      },
+      {
+        "hair": "red-beard-only (3.16% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-haunch-meat-left-bracers (0.29% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#691",
+    "caveman": 691,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 4982
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "black-leather-pouch-harness (2.24% have this trait)"
+      },
+      {
+        "hair": "top-knot-black (0.39% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-stick-left-bracers (2.26% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "antler-headress (3.73% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1584",
+    "caveman": 1584,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 1729
+      },
+      {
+        "background": "rainbow-mountains (1.64% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "sandals-tan (8.55% have this trait)"
+      },
+      {
+        "clothing": "mammoth (9.23% have this trait)"
+      },
+      {
+        "hair": "top-knot-braided-beard-green-white (0.14% have this trait)"
+      },
+      {
+        "arms": "arms-down-club-bracers (2.60% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "antler-headress-black (1.48% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6297",
+    "caveman": 6297,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 5468
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "mammoth (9.23% have this trait)"
+      },
+      {
+        "hair": "top-knot-mustache-purple (0.49% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers-basic-spear-stic-left-bracers (1.45% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "green-wizard-hat (2.97% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#5823",
+    "caveman": 5823,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 4126
+      },
+      {
+        "background": "snowy-forest (5.25% have this trait)"
+      },
+      {
+        "body": "squint-base-spiral-tattoo-blue (2.34% have this trait)"
+      },
+      {
+        "feet": "mud (2.01% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "green-mohawk-braided-beard (0.72% have this trait)"
+      },
+      {
+        "arms": "arms-down-stick-left-bracers (1.47% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7606",
+    "caveman": 7606,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 7444
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "foot-hair-grey (1.35% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "top-knot-mustache-brown (0.86% have this trait)"
+      },
+      {
+        "arms": "arms-down-basic-spear-bracers (3.01% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#2532",
+    "caveman": 2532,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9628
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "black-leather (4.11% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down-stick-left-bracers (1.47% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6146",
+    "caveman": 6146,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 1452
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "closed-eyes-base-stripe-tattoo-purple (0.92% have this trait)"
+      },
+      {
+        "feet": "sandals-tan (8.55% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "green-beard-only (0.43% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-haunch-stick-left- (1.82% have this trait)"
+      },
+      {
+        "environment": "green-lizard (6.12% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#9897",
+    "caveman": 9897,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 2094
+      },
+      {
+        "background": "rock-spires (10.75% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather (10.40% have this trait)"
+      },
+      {
+        "hair": "purple-mohawk-braided-beard (0.55% have this trait)"
+      },
+      {
+        "arms": "arms-down (4.92% have this trait)"
+      },
+      {
+        "environment": "fire (9.34% have this trait)"
+      },
+      {
+        "head": "grey-wizard-hat (3.49% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#8161",
+    "caveman": 8161,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 6125
+      },
+      {
+        "background": "lagoon (8.46% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leather (10.40% have this trait)"
+      },
+      {
+        "hair": "top-knot-grey (2.37% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-stick-left (2.31% have this trait)"
+      },
+      {
+        "environment": "green-lizard (6.12% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7668",
+    "caveman": 7668,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 5095
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "green-mohawk-only (0.50% have this trait)"
+      },
+      {
+        "arms": "arms-down-basic-spear (4.48% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "red-wizard-hat (1.92% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7283",
+    "caveman": 7283,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8902
+      },
+      {
+        "background": "rainbow-mountains (1.64% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "blonde-beard-balding (4.43% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone (4.39% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#8268",
+    "caveman": 8268,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 2012
+      },
+      {
+        "background": "lagoon (8.46% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "foot-hair-brown (2.98% have this trait)"
+      },
+      {
+        "clothing": "black-leather (4.11% have this trait)"
+      },
+      {
+        "hair": "dreads-grey-braided-beard (1.52% have this trait)"
+      },
+      {
+        "arms": "arms-down-club-meat-left (1.22% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "antler-headress (3.73% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6493",
+    "caveman": 6493,
+    "attributes": [{
+        "rarity-type": "rare"
+      },
+      {
+        "rarity-rank": 986
+      },
+      {
+        "background": "rainbow-mountains (1.64% have this trait)"
+      },
+      {
+        "body": "base-spiral-tattoo-blue (3.39% have this trait)"
+      },
+      {
+        "feet": "snake-neon (0.44% have this trait)"
+      },
+      {
+        "clothing": "mammoth (9.23% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-haunch-bracers (1.88% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "green-wizard-hat (2.97% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#2001",
+    "caveman": 2001,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 4087
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "scar-base (5.16% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "blonde-beard-balding (4.43% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-stick-left (2.75% have this trait)"
+      },
+      {
+        "environment": "wolf-pup (3.29% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#459",
+    "caveman": 459,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 6879
+      },
+      {
+        "background": "night-plains (13.19% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "sandals-tan (8.55% have this trait)"
+      },
+      {
+        "clothing": "leather-potions-harness-blue (5.21% have this trait)"
+      },
+      {
+        "hair": "top-knot-grey (2.37% have this trait)"
+      },
+      {
+        "arms": "arms-down-bracers-basic-spear-stic-left-bracers (1.45% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#2522",
+    "caveman": 2522,
+    "attributes": [{
+        "rarity-type": "epic"
+      },
+      {
+        "rarity-rank": 394
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "boots-green (2.36% have this trait)"
+      },
+      {
+        "clothing": "black-leather-pouch-harness (2.24% have this trait)"
+      },
+      {
+        "hair": "red-beard-only (3.16% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone (4.39% have this trait)"
+      },
+      {
+        "environment": "eggs-pink (3.15% have this trait)"
+      },
+      {
+        "head": "grey-wizard-hat (3.49% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1768",
+    "caveman": 1768,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 4252
+      },
+      {
+        "background": "cave (15.03% have this trait)"
+      },
+      {
+        "body": "scar-base (5.16% have this trait)"
+      },
+      {
+        "feet": "boots-black (2.25% have this trait)"
+      },
+      {
+        "clothing": "white-elrond-toga-purple-sash (1.26% have this trait)"
+      },
+      {
+        "hair": "blue-beard-only (0.47% have this trait)"
+      },
+      {
+        "arms": "arms-down-elrond-spear-bracers (0.08% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#4970",
+    "caveman": 4970,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 6472
+      },
+      {
+        "background": "savannah (18.15% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "dreads-green-mustache (0.39% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-bracers (3.24% have this trait)"
+      },
+      {
+        "environment": "red-lizard (2.04% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#1545",
+    "caveman": 1545,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9402
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "white-mohawk-only (0.79% have this trait)"
+      },
+      {
+        "arms": "arms-down-log (7.39% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#4576",
+    "caveman": 4576,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 9544
+      },
+      {
+        "background": "beach (7.14% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "white-elrond-toga-blue-sash (2.16% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-meat-left-bracers (2.08% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7231",
+    "caveman": 7231,
+    "attributes": [{
+        "rarity-type": "legendary"
+      },
+      {
+        "rarity-rank": 59
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "squint-base-spiral-tattoo-blue (2.34% have this trait)"
+      },
+      {
+        "feet": "sandals-tan (8.55% have this trait)"
+      },
+      {
+        "clothing": "white-elrond-toga-purple-sash (1.26% have this trait)"
+      },
+      {
+        "hair": "red-beard-braided-only (1.09% have this trait)"
+      },
+      {
+        "arms": "arms-down-axe-wheel (0.25% have this trait)"
+      },
+      {
+        "environment": "green-lizard (6.12% have this trait)"
+      },
+      {
+        "head": "earring (3.61% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#7423",
+    "caveman": 7423,
+    "attributes": [{
+        "rarity-type": "epic"
+      },
+      {
+        "rarity-rank": 203
+      },
+      {
+        "background": "ice-lake (2.49% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "foot-hair-green (1.67% have this trait)"
+      },
+      {
+        "clothing": "black-leather-pouch-harness (2.24% have this trait)"
+      },
+      {
+        "hair": "top-knot-mustache-brown (0.86% have this trait)"
+      },
+      {
+        "arms": "arms-down-log (7.39% have this trait)"
+      },
+      {
+        "environment": "red-lizard (2.04% have this trait)"
+      },
+      {
+        "head": "green-headband (1.33% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#9447",
+    "caveman": 9447,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8258
+      },
+      {
+        "background": "ice-lake (2.49% have this trait)"
+      },
+      {
+        "body": "annoyed-base (8.54% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "grey-beard-full (4.89% have this trait)"
+      },
+      {
+        "arms": "arms-down-club (3.45% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#4508",
+    "caveman": 4508,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 8165
+      },
+      {
+        "background": "beach (7.14% have this trait)"
+      },
+      {
+        "body": "scar-base (5.16% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "mammoth (9.23% have this trait)"
+      },
+      {
+        "hair": "red-beard-balding (4.41% have this trait)"
+      },
+      {
+        "arms": "arms-down-meat-haunch-stick-left- (1.82% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#25",
+    "caveman": 25,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 7281
+      },
+      {
+        "background": "snowy-forest (5.25% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "foot-hair-brown (2.98% have this trait)"
+      },
+      {
+        "clothing": "white-leather-pouch-harness (1.46% have this trait)"
+      },
+      {
+        "hair": "hair-none (14.02% have this trait)"
+      },
+      {
+        "arms": "arms-down-basic-spear (4.48% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#703",
+    "caveman": 703,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 7368
+      },
+      {
+        "background": "savannah (18.15% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "boots-black (2.25% have this trait)"
+      },
+      {
+        "clothing": "leopard (10.59% have this trait)"
+      },
+      {
+        "hair": "grey-beard-balding (4.45% have this trait)"
+      },
+      {
+        "arms": "arms-down-hammer (1.51% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#861",
+    "caveman": 861,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 4465
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "eyes-closed-base-spiraling-circles-tattoo-red (0.18% have this trait)"
+      },
+      {
+        "feet": "foot-hair-brown (2.98% have this trait)"
+      },
+      {
+        "clothing": "grey-wolf (10.21% have this trait)"
+      },
+      {
+        "hair": "dreads-grey-beard (1.16% have this trait)"
+      },
+      {
+        "arms": "arms-down-bone-pendant-left-bracers (1.24% have this trait)"
+      },
+      {
+        "environment": "environment-none (64.60% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#6924",
+    "caveman": 6924,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 5254
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "squint-base (26.25% have this trait)"
+      },
+      {
+        "feet": "feet-none (48.65% have this trait)"
+      },
+      {
+        "clothing": "sabertooth-white (0.72% have this trait)"
+      },
+      {
+        "hair": "top-knot-brown (1.81% have this trait)"
+      },
+      {
+        "arms": "arms-down-basic-spear-bracers (3.01% have this trait)"
+      },
+      {
+        "environment": "fire (9.34% have this trait)"
+      },
+      {
+        "head": "head-none (68.95% have this trait)"
+      }
+    ],
+    "minted": true
+  },
+  {
+    "name": "#537",
+    "caveman": 537,
+    "attributes": [{
+        "rarity-type": "uncommon"
+      },
+      {
+        "rarity-rank": 6724
+      },
+      {
+        "background": "volcano (11.72% have this trait)"
+      },
+      {
+        "body": "base (33.83% have this trait)"
+      },
+      {
+        "feet": "snake-red (2.09% have this trait)"
+      },
+      {
+        "clothing": "black-leather-pouch-harness (2.24% have this trait)"
+      },
+      {
+        "hair": "grey-beard-mohawk (1.59% have this trait)"
+      },
+      {
+        "arms": "arms-down-club (3.45% have this trait)"
       },
       {
         "environment": "environment-none (64.60% have this trait)"
