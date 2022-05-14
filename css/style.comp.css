@@ -37,9 +37,12 @@ body {
   grid-template-rows: 10rem 85vh min-content 10rem;
   margin: 0 auto;
   position: relative; }
+<<<<<<< HEAD
   @media (max-width: 600px) {
     .container {
       grid-template-columns: 100vw; } }
+=======
+>>>>>>> 1a7cef193e00a8aeeab4dbc591cc4584ea4da479
 
 .about {
   grid-column: 1 / -1;
@@ -223,6 +226,35 @@ body {
         grid-gap: .5rem; } }
   .cavemen__item {
     box-shadow: 1rem 1rem 1rem 1rem rgba(0, 0, 0, 0.2); }
+<<<<<<< HEAD
+=======
+
+.search {
+  flex: 0 0 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+  .search__input {
+    font-family: inherit;
+    font-size: inherit;
+    color: #000;
+    background-color: #fff;
+    border: none;
+    padding: .7rem 2rem;
+    border-radius: 100px;
+    width: 90%;
+    transition: all .2s;
+    margin-right: -3.25rem; }
+    .search__input:focus {
+      outline: none;
+      width: 100%;
+      background-color: #fff; }
+    .search__input::-webkit-input-placeholder {
+      font-weight: 100;
+      color: #555; }
+  .search__input:focus + .search__button {
+    background-color: #000; }
+>>>>>>> 1a7cef193e00a8aeeab4dbc591cc4584ea4da479
 
 .footer {
   color: white;
@@ -581,7 +613,12 @@ h3 {
   grid-row: 1 / -1;
   background-image: url("/img/Crypro Caveman BG V1.png");
   background-repeat: no-repeat;
+<<<<<<< HEAD
   background-size: contain;
+=======
+  background-size: cover;
+  background-position: center;
+>>>>>>> 1a7cef193e00a8aeeab4dbc591cc4584ea4da479
   max-width: var(--max-width-lg);
   width: 100%; }
   .wallet__header {
@@ -593,6 +630,12 @@ h3 {
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent; }
+<<<<<<< HEAD
+=======
+    @media (max-width: 750px) {
+      .wallet__header {
+        font-size: 5rem; } }
+>>>>>>> 1a7cef193e00a8aeeab4dbc591cc4584ea4da479
   .wallet__image {
     height: 10rem;
     width: 10rem; }
