@@ -420,8 +420,15 @@ body {
         left: 50%;
         transform: translate(-50%, -50%);
         max-width: 100%; } }
+    @media (max-width: 600px) {
+      .landing__info {
+        position: absolute;
+        top: 50%;
+        left: 55%;
+        transform: translate(-50%, -50%);
+        width: 75vw; } }
   .landing__header {
-    background: linear-gradient(to right bottom, #FDF11E, #ac8d04);
+    background: linear-gradient(to right bottom, #fdf11e, #ac8d04);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent; }
@@ -429,7 +436,7 @@ body {
     margin-top: 3rem;
     display: inline-block;
     border: none;
-    background: linear-gradient(to right bottom, #FDF11E, #ac8d04);
+    background: linear-gradient(to right bottom, #fdf11e, #ac8d04);
     padding: 1.5rem 3rem;
     font-family: chinese-rocks, sans-serif;
     color: #fff;
@@ -448,7 +455,7 @@ body {
 .cta__link:visited {
   display: inline-block;
   border: none;
-  background: linear-gradient(to right bottom, #FDF11E, #ac8d04);
+  background: linear-gradient(to right bottom, #fdf11e, #ac8d04);
   padding: 1.5rem 3rem;
   font-family: chinese-rocks, sans-serif;
   color: #333;
