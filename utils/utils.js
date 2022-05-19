@@ -1,8 +1,7 @@
-const data = require('../data/web-minted.json');
+const data = require("../data/minted.json");
 
-const countCavemen = async () => {
-  // const jsonFile = fetch('../data/minted.json')
-  data.find(caveman => caveman.)
+const countCavemen = () => {
+  // const jsonFile = fetch("../data/minted.json");
 };
 
-countCavemen();
+console.log(data.length);
