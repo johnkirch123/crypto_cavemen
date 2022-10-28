@@ -36,13 +36,13 @@ html {
 }
 
 body {
-    font-family: chinese-rocks, sans-serif;
+    font-family: Chelsea Market, Roboto, chinese-rocks, sans-serif;
     min-width: 100vw;
     font-weight: 400;
     font-style: normal;
-    line-height: 1.6;
+    line-height: 1.4;
     overflow-x: hidden;
-    background-color: #252525;
+    background: #252525;
 
 }
 
@@ -50,8 +50,8 @@ body {
     max-width: $max-width;
     width: 100vw;
     display: grid;
-    grid-template-columns: 10% 80% 10%;
-    grid-template-rows: 10rem 85vh min-content 10rem;
+    grid-template-rows: 10rem min-content;
+    grid-template-columns: 10rem 1fr 10rem;
     margin: 0 auto;
     position: relative;
 

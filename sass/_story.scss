@@ -1,0 +1,105 @@
+.story {
+  grid-column: 1 / -1;
+  grid-row: 1 / -1;
+
+  display: grid;
+  grid-template-columns: 20rem 1fr 40rem;
+  grid-template-rows: 10rem min-content min-content;
+  justify-content: center;
+  &__header {
+    grid-column: 1  / -1;
+  }
+
+  &__background {
+
+    background-position: fixed;
+    background-size: auto 100%;
+    max-width: $max-width;
+    height: 100vh;
+  }
+
+  &__overlay {
+      // background-image: linear-gradient(
+      //   to bottom right,
+      //   rgba(100, 100, 0, 0.4),
+      //   rgba(0, 0, 0, 0.5)
+      // );
+      background-color: #111;
+      height: 100vh;
+      width: $max-width;
+      position: fixed;
+  }
+
+  &__body {
+    grid-row: 2 / -1;
+    grid-column: 2 / 3;
+    padding-right: 5rem;
+    padding-bottom: 20rem;
+
+    & > h1 {
+      font-size: 5rem;
+      margin-top: 5rem;
+      margin-bottom: 4rem;
+    }
+
+    & > p {
+      font-size: 2.5rem;
+      text-align: start;
+      color: rgb(255, 255, 217);
+      line-height: 5rem;
+    }
+  }
+
+  &__toc {
+    grid-row: 2 / -1;
+    grid-column: 3 / -1;
+    
+    &--box {
+      width: 30rem;
+      display: flex;
+      flex-direction: column;
+      position: fixed;
+      border-left: solid #ecd10e 4px;
+    }
+
+    &--header {
+      font-size: 2.5rem;
+      padding-left: 5rem;
+      margin-bottom: 1rem;
+      color: rgb(255, 255, 255);
+    }
+
+    &--book {
+      font-size: 1.8rem;
+      padding-left: 5rem;
+      margin-bottom: 1rem;
+      color: rgb(255, 255, 193);
+    }
+
+    &--chapter {
+      font-size: 1.5rem;
+      text-indent: 1rem;
+      padding-left: 5rem;
+      margin-bottom: 1rem;
+      color: rgb(255, 255, 193);
+    }
+  }
+
+  &__link {
+      @media (max-width: 750px) {
+          grid-column: 2 / 3;
+          height: min-content;
+      }
+  }
+
+  &__link:link,
+  &__link:visited {
+      text-decoration: none;
+      color: black;
+  }
+
+  &__link:hover {
+      cursor: pointer;
+      text-decoration: underline;
+  }
+}

@@ -1,115 +1,195 @@
 .cavemen {
-    
-    background-color: #171717;
-    grid-column: 1 / -1;
-    grid-row: 1 / -1;
+  grid-column: 1 / -1;
+  grid-row: 1 / -1;
+  position: relative;
+  z-index: 10;
+
+  &__background {
+    background-image: url(../img/hero-banner.png);
+    animation: slide 60s linear infinite;
+
+    background-position: fixed;
+    background-size: auto 100%;
     max-width: $max-width;
-    min-width: min-content;
+    height: 100vh;
+  }
+
+  &__overlay {
+      background-image: linear-gradient(
+        to bottom right,
+        rgba(0, 0, 0, 0.4),
+        rgba(0, 0, 0, 0.9)
+      );
+      height: 100vh;
+      width: $max-width;
+      position: fixed;
+      z-index: 1;
+  }
+
+  &__image {
+    margin-bottom: -3rem;
+    height: 8rem;
+    width: 18rem;
+  }
+
+  &__cta {
+    margin-top: 2rem;
+    font-size: 2.5rem;
+  }
+
+  &__deadrare {
+    height: 8rem;
+    animation: pulsate 2s infinite;
+    
+    &--box {
+      display: flex;
+      justify-content: center;
+      margin-top: 3rem;
+    }
+    
+    &--glow {
+      position: absolute;
+      margin-left: 3.5rem;
+      margin-top: 3.5rem;
+      transform: rotate(45deg);
+      cursor: pointer;
+      animation: glow 2s linear infinite;
+      z-index: 10;
+    }
+  }
+
+  &__xoxno {
+    margin-left: 10rem;
+    animation: pulsate 2s infinite;
+  }
+
+  display: grid;
+  grid-template-columns: 10rem 1fr 10rem;
+  grid-template-rows: 10rem min-content min-content;
+  justify-content: center;
+
+  @media (max-width: 750px) {
+    grid-template-columns: 10vw 80vw 10vw;
+  }
+
+  &__header {
+    padding-top: 10rem;
+    grid-row: 2 / 3;
+    grid-column: 1 / -1;
+    background: linear-gradient(to right bottom, #fdf11e, #ac8d04);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: 5rem;
+    text-align: center;
+    padding: 3vw 10vw;
+
+    &--sub-text {
+      font-size: 3rem;
+    }
+
+    @media (max-width: 750px) {
+      grid-column: 1 / -1;
+    }
+  }
+
+  &__body {
+    grid-column: 2 / 3;
+    grid-row: 3 / 4;
 
     display: grid;
-    grid-template-columns: 10rem 1fr 10rem;
-    grid-template-rows: 10rem min-content min-content;
-    justify-content: center;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 4rem;
 
-    @media(max-width: 750px) {
-        grid-template-columns: 10vw 80vw 10vw;
+    line-height: 0;
+
+    &:last-child {
+      margin-bottom: 10rem;
     }
 
-    &__header {
-        padding-top: 10rem;
-        grid-row: 2 / 3;
-        grid-column: 1 / -1;
-        background: linear-gradient(to right bottom, #FDF11E, #ac8d04);
-        -webkit-background-clip: text;
-        background-clip: text;
-        color: transparent;
-        font-size: 5rem;
-        text-align: center;
-        padding: 3vw 10vw;
-
-        &--sub-text {
-            font-size: 3rem;
-        }
-
-        @media(max-width: 750px) {
-            grid-column: 1 / -1;
-        }
+    @media (max-width: 1600px) {
+      grid-template-columns: repeat(3, min-content);
+      grid-column: 2 / 3;
+      justify-content: center;
     }
 
-    &__body {
-        grid-column: 2 / 3;
-        grid-row: 3 / 4;
-        
-        display: grid;
-        grid-template-columns: repeat(5, 1fr);
-        grid-gap: 4rem;
-        
-        line-height: 0;
-        margin-top: 5rem;
-
-        &:last-child {
-            margin-bottom: 10rem;
-        }
-
-        @media(max-width: 1600px) {
-            grid-template-columns: repeat(3, min-content);
-            grid-column: 2 / 3;
-            justify-content: center;
-        }
-
-        @media(max-width: 750px) {
-            grid-template-columns: none;
-            justify-content: center;
-            grid-gap: .5rem;
-
-        }
+    @media (max-width: 750px) {
+      grid-template-columns: none;
+      justify-content: center;
+      grid-gap: 0.5rem;
     }
+  }
 
-    &__item {
-        box-shadow: 1rem 1rem 1rem 1rem rgba(0, 0, 0, .2);
-    }
+  &__item {
+    box-shadow: 1rem 1rem 1rem 1rem rgba(0, 0, 0, 0.2);
+  }
 }
 
 ////////////////////////////////////////
 // SEARCH
 .search {
-    flex: 0 0 40%;
+  flex: 0 0 40%;
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  // @media only screen and (max-width: $bp-smallest) {
+  //     order: 1;
+  //     flex: 0 0 100%;
+  //     background-color: #fff;
+  // }
 
-    // @media only screen and (max-width: $bp-smallest) {
-    //     order: 1;
-    //     flex: 0 0 100%;
-    //     background-color: #fff;
-    // }
+  &__input {
+    font-family: inherit;
+    font-size: 4rem;
+    color: #000;
+    background-color: #fff;
+    border: none;
+    padding: 0.7rem 2rem;
+    border-radius: 100px;
+    width: 80%;
+    transition: all 0.2s;
+    margin-right: -3.25rem;
 
-    &__input {
-        font-family: inherit;
-        font-size: inherit;
-        color: #000;
-        background-color: #fff;
-        border: none;
-        padding: .7rem 2rem;
-        border-radius: 100px;
-        width: 90%;
-        transition: all .2s;
-        margin-right: -3.25rem;
-
-        &:focus {
-            outline: none;
-            width: 100%;
-            background-color: #fff;
-        }
-
-        &::-webkit-input-placeholder {
-            font-weight: 100;
-            color: #555;
-        }
+    &:focus {
+      outline: none;
+      width: 85%;
+      background-color: #fff;
     }
 
-    &__input:focus + &__button {
-        background-color: #000;
+    &::-webkit-input-placeholder {
+      font-weight: 100;
+      color: #555;
     }
+  }
+
+  &__input:focus + &__button {
+    background-color: #000;
+  }
+}
+
+@keyframes glow {
+  0% {
+    box-shadow: 0 0 40px 30px rgba(194, 213, 127, 0.1);
+  }
+  50% {
+    box-shadow: 0 0 40px 30px rgba(194, 213, 127, 0.4);
+  }
+  100%{
+    box-shadow: 0 0 40px 30px rgba(194, 213, 127, 0.1);
+  }
+}
+
+@keyframes grow {
+  0% {
+    transform: scale(1rem);
+  }
+  50% {
+    transform: scale(1.1rem);
+  }
+  100%{
+    transform: scale(1rem);
+  }
+  
 }
