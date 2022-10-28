@@ -3,19 +3,21 @@
   grid-row: 1 / -1;
 
   display: grid;
-  grid-template-columns: 20rem 1fr 40rem;
+  grid-template-columns: 12rem 1fr 30rem;
   grid-template-rows: 10rem min-content min-content;
   justify-content: center;
+
+  @media (max-width: 1200px) {
+    grid-template-columns: 5vw 1fr 5vw;
+  }
   &__header {
     grid-column: 1  / -1;
   }
 
   &__background {
-
     background-position: fixed;
     background-size: auto 100%;
-    max-width: $max-width;
-    height: 100vh;
+    max-width: 100vw;
   }
 
   &__overlay {
@@ -25,8 +27,7 @@
       //   rgba(0, 0, 0, 0.5)
       // );
       background-color: #111;
-      height: 100vh;
-      width: $max-width;
+      width: 100vw;
       position: fixed;
   }
 
@@ -35,6 +36,18 @@
     grid-column: 2 / 3;
     padding-right: 5rem;
     padding-bottom: 20rem;
+    padding-left: 5rem;
+    @media (max-width: 1500px) {
+        padding-right: 2rem;
+        padding-left: 0rem;
+      }
+
+    @media (max-width: 1200px) {
+      grid-column: 2 / 3;
+      grid-row: 3 / -1;
+      width: 90vw;
+      margin-left: 5vw;
+    }
 
     & > h1 {
       font-size: 5rem;
@@ -53,6 +66,12 @@
   &__toc {
     grid-row: 2 / -1;
     grid-column: 3 / -1;
+    @media (max-width: 1200px) {
+      grid-column: 1 / -1;
+      grid-row: 2 / 3;
+      margin-left: 15vw;
+      height: 15rem;
+    }
     
     &--box {
       width: 30rem;
@@ -60,6 +79,11 @@
       flex-direction: column;
       position: fixed;
       border-left: solid #ecd10e 4px;
+      @media (max-width: 1200px) {
+          display: block;
+          position: relative;
+          width: 100%;
+        }
     }
 
     &--header {

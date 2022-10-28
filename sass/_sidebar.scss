@@ -5,6 +5,13 @@
     width: 10rem;
     z-index: 100;
 
+    @media(max-width: 1200px) {
+        position: fixed;
+        bottom: 7rem;
+        margin-left: 50vw;
+        transform: translate(-100%, -100%);
+    }
+
     &__list {
         display: flex;
         flex-direction: column;
@@ -12,12 +19,20 @@
         position: fixed;
         color: white;
         margin: 30rem 1.5rem;
-        
+        @media(max-width: 1200px) {
+            flex-direction: row;
+            margin: 0 auto;
+        }
     }
 
     &__link--icon {
         height: 5rem;
         width: 5rem;
+        @media (max-width: 100px) {
+            height: 7rem;
+            width: 7rem;
+            
+        }
     }
 
     &__link:link,
@@ -30,6 +45,11 @@
         height: 100%;
         margin: 1rem 2rem;
         transition: all .2s;
+        
+        @media (max-width: 100px) {
+            font-size: 3rem;
+        }
+            
 
     }
 
