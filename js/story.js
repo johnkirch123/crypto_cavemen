@@ -159,7 +159,6 @@ const displayTOC = () => {
 };
 
 const displayStory = (story) => {
-  console.log('story:', story);
   let storyTitle = document.createElement('h1');
   let storyWriting;
   storyTitle.innerText = story?.title;
@@ -172,5 +171,5 @@ const displayStory = (story) => {
   });
 };
 
-displayTOC();
-displayStory(stories[stories.length - 1]);
+// displayTOC();
+// displayStory(stories[stories.length - 1]);

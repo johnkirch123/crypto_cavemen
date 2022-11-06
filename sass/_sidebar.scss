@@ -4,6 +4,18 @@
     grid-column: 1 / -1;
     width: 10rem;
     z-index: 100;
+    @media (max-width: 1200px) {
+        position: fixed;
+        bottom: 7rem;
+        margin-left: 50vw;
+        transform: translate(-100%, -100%);
+      }
+
+    @media (max-width: 550px) {
+        grid-row: 3 / -1;
+        grid-column: 2 / 3;
+        wdith: 100%;
+    }       
 
     &__list {
         display: flex;
@@ -11,8 +23,12 @@
         list-style: none;
         position: fixed;
         color: white;
-        margin: 30rem 1.5rem;
+        margin: 30rem 1.5rem;  
         
+        @media (max-width: 1200px) {
+            flex-direction: row;
+            margin: 0 auto;
+        }    
     }
 
     &__link--icon {
