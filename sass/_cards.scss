@@ -8,6 +8,10 @@
         min-width: 30rem;
     }
 
+    @media (max-width: 1600px) {
+        min-width: 30rem;
+    }
+
     &__side {
         transition: all .8s;
         position:absolute;

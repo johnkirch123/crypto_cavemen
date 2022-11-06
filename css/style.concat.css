@@ -19,7 +19,7 @@ html {
   font-size: 62.5%; }
   @media (max-width: 900px) {
     html {
-      font-size: 50%; } }
+      font-size: 70%; } }
 
 body {
   font-family: Chelsea Market, Roboto, chinese-rocks, sans-serif;
@@ -126,6 +126,9 @@ body {
   @media (max-width: 1600px) {
     .card {
       min-width: 30rem; } }
+  @media (max-width: 1600px) {
+    .card {
+      min-width: 30rem; } }
   .card__side {
     transition: all .8s;
     position: absolute;
@@ -205,12 +208,12 @@ body {
     animation: slide 60s linear infinite;
     background-position: fixed;
     background-size: auto 100%;
-    max-width: var(--max-width-lg);
+    max-width: 100vw;
     height: 100vh; }
   .cavemen__overlay {
     background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.9));
     height: 100vh;
-    width: var(--max-width-lg);
+    width: 100vw;
     position: fixed;
     z-index: 1; }
   .cavemen__image {
@@ -264,13 +267,21 @@ body {
     grid-template-columns: repeat(5, 1fr);
     grid-gap: 4rem;
     line-height: 0; }
+    @media (max-width: 1200px) {
+      .cavemen__body {
+        grid-column: 1 / -1; } }
     .cavemen__body:last-child {
       margin-bottom: 10rem; }
     @media (max-width: 1600px) {
       .cavemen__body {
         grid-template-columns: repeat(3, min-content);
         grid-column: 2 / 3;
-        justify-content: center; } }
+        justify-content: space-between; } }
+    @media (max-width: 1100px) {
+      .cavemen__body {
+        grid-template-columns: repeat(2, min-content);
+        grid-column: 2 / 3;
+        justify-content: space-around; } }
     @media (max-width: 1200px) {
       .cavemen__body {
         grid-column: 1 / -1; } }
@@ -450,6 +461,7 @@ body {
     position: fixed;
     top: 2.75rem;
     right: 3.75rem;
+    right: 2.75rem;
     z-index: 2000;
     box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.1);
     text-align: center;
@@ -461,6 +473,7 @@ body {
     position: fixed;
     top: 3rem;
     right: 4rem;
+    right: 3rem;
     background-image: radial-gradient(#FDF11E, #DEB700);
     z-index: 1000;
     transition: transform 0.8s cubic-bezier(0.86, 0, 0.07, 1); }
@@ -508,18 +521,18 @@ body {
     position: absolute;
     top: 15%;
     left: 10%;
-    max-width: 45%;
-    min-width: 20rem; }
+    max-width: 58%; }
     @media (max-width: 1200px) {
       .landing__info {
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
-        max-width: 100%; } }
+        max-width: 100%;
+        width: 80vw; } }
     @media (max-width: 600px) {
       .landing__info {
         left: 55%;
-        width: 75vw; } }
+        width: 80vw; } }
     @media (max-width: 450px) {
       .landing__info {
         width: 70vw; } }
@@ -604,7 +617,7 @@ body {
   grid-column: 1 / -1;
   grid-row: 1 / -1;
   display: grid;
-  grid-template-columns: 20rem 1fr 40rem;
+  grid-template-columns: 12rem 1fr 30rem;
   grid-template-rows: 10rem min-content min-content;
   justify-content: center; }
   @media (max-width: 1200px) {
@@ -614,7 +627,8 @@ body {
     grid-column: 1 / -1; }
   .story__background {
     background-position: fixed;
-    background-size: auto 100%; }
+    background-size: auto 100%;
+    max-width: 100vw; }
   .story__overlay {
     background-color: #111;
     height: 100%;
@@ -624,7 +638,8 @@ body {
     grid-row: 2 / -1;
     grid-column: 2 / 3;
     padding-right: 5rem;
-    padding-bottom: 20rem; }
+    padding-bottom: 20rem;
+    padding-left: 5rem; }
     @media (max-width: 1500px) {
       .story__body {
         padding-right: 2rem;
@@ -758,6 +773,18 @@ body {
       grid-row: 3 / -1;
       grid-column: 2 / 3;
       wdith: 100%; } }
+  @media (max-width: 1200px) {
+    .sidebar {
+      position: fixed;
+      bottom: 7rem;
+      margin-left: 50vw;
+      transform: translate(-100%, -100%); } }
+  @media (max-width: 1200px) {
+    .sidebar {
+      position: fixed;
+      bottom: 7rem;
+      margin-left: 50vw;
+      transform: translate(-100%, -100%); } }
   .sidebar__list {
     display: flex;
     flex-direction: column;
@@ -772,6 +799,10 @@ body {
   .sidebar__link--icon {
     height: 5rem;
     width: 5rem; }
+    @media (max-width: 100px) {
+      .sidebar__link--icon {
+        height: 7rem;
+        width: 7rem; } }
   .sidebar__link:link, .sidebar__link:visited {
     text-decoration: none;
     text-transform: uppercase;
@@ -781,6 +812,9 @@ body {
     height: 100%;
     margin: 1rem 2rem;
     transition: all .2s; }
+    @media (max-width: 100px) {
+      .sidebar__link:link, .sidebar__link:visited {
+        font-size: 3rem; } }
   .sidebar__link:hover {
     cursor: pointer;
     transform: scale(1.1); }
